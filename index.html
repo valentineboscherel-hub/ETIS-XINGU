@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ETIS QCM</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=3" />
 </head>
 <body>
   <header>
@@ -14,14 +14,23 @@
 
   <main>
     <section id="home" class="card">
-      <h2>Lancer un test</h2>
+      <h2>Tableau de bord</h2>
+
+      <div class="stats-grid">
+        <div class="stat"><span id="statLast">—</span><small>Dernier score</small></div>
+        <div class="stat"><span id="statBest">—</span><small>Meilleur score</small></div>
+        <div class="stat"><span id="statAverage">—</span><small>Moyenne</small></div>
+        <div class="stat"><span id="statCount">0</span><small>Tests faits</small></div>
+      </div>
 
       <div class="stats-box">
-        <h3>Mes résultats</h3>
-        <p id="statsSummary">Aucun résultat enregistré pour l’instant.</p>
-        <div id="historyList"></div>
-        <button id="clearHistoryBtn" class="danger small-btn hidden">Effacer l’historique</button>
+        <h3>Historique récent</h3>
+        <div id="historyList">Aucun résultat enregistré.</div>
+        <button id="retryLastMistakesHomeBtn" class="good hidden">Refaire mes erreurs du dernier test</button>
+        <button id="clearHistoryBtn" class="danger small-btn hidden">Effacer mes résultats sur cet appareil</button>
       </div>
+
+      <h2>Lancer un test</h2>
 
       <label for="testFilter">Test</label>
       <select id="testFilter">
@@ -43,7 +52,6 @@
       </select>
 
       <button id="startBtn">Lancer le test</button>
-      <button id="retryLastMistakesHomeBtn" class="secondary hidden">Refaire mes erreurs du dernier test</button>
     </section>
 
     <section id="quiz" class="card hidden">
@@ -65,14 +73,14 @@
     <section id="results" class="card hidden">
       <h2>Résultat</h2>
       <p id="finalScore" class="final-score"></p>
-      <p class="saved-note">Résultat enregistré sur cet appareil.</p>
+      <p class="saved-note">✅ Résultat enregistré sur cet appareil.</p>
       <div id="mistakes"></div>
       <button id="retryMistakesBtn" class="good hidden">Refaire uniquement mes erreurs</button>
-      <button id="restartBtn">Recommencer</button>
-      <button id="homeBtn" class="secondary">Accueil</button>
+      <button id="restartBtn">Refaire un test</button>
+      <button id="homeBtn" class="secondary">Retour au tableau de bord</button>
     </section>
   </main>
 
-  <script src="script.js"></script>
+  <script src="script.js?v=3"></script>
 </body>
 </html>

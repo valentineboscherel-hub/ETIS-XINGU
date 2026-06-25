@@ -1,23 +1,26 @@
-# ETIS QCM — version 2
+# ETIS QCM — v3
 
 Nouveautés :
-- résultats affichés sur la page d'accueil ;
-- sauvegarde automatique des scores sur l'appareil ;
+- tableau de bord fiable sur la page d'accueil ;
+- enregistrement automatique du résultat dès la fin du test ;
+- retour au tableau de bord avec rafraîchissement immédiat ;
 - bouton pour refaire uniquement les erreurs du dernier test ;
-- bouton pour refaire les erreurs directement depuis le résultat.
+- historique conservé sur chaque appareil/navigateur avec localStorage.
 
-## Mise à jour GitHub Pages
+## Important
 
-1. Ouvre ton dépôt `ETIS-QCM`.
-2. Clique sur **Add file** puis **Upload files**.
-3. Envoie ces 5 fichiers :
-   - `index.html`
-   - `style.css`
-   - `script.js`
-   - `questions.json`
-   - `README.md`
-4. Accepte le remplacement des anciens fichiers.
-5. Clique sur **Commit changes**.
+GitHub Pages est un site statique : il ne peut pas enregistrer les résultats par adresse IP sur un serveur.
+Cette version utilise le stockage local du navigateur. Résultat :
+- chaque iPhone / ordinateur / navigateur conserve ses propres résultats ;
+- les résultats ne sont pas visibles par les autres personnes ;
+- les résultats restent même si on ferme Safari ;
+- ils disparaissent seulement si l’utilisateur efface les données du site ou clique sur “Effacer mes résultats”.
 
-Les résultats sont sauvegardés dans le navigateur avec `localStorage`.
-Ils restent donc sur le même téléphone/navigateur, mais ne se synchronisent pas entre appareils.
+## Mise à jour
+
+Remplace sur GitHub les fichiers :
+- index.html
+- style.css
+- script.js
+- questions.json
+- README.md
