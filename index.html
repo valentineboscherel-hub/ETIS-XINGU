@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ETIS QCM</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>ETIS QCM</h1>
+    <p>240 questions — EMB 121 Xingu</p>
+  </header>
+
+  <main>
+    <section id="home" class="card">
+      <h2>Lancer un test</h2>
+
+      <label for="testFilter">Test</label>
+      <select id="testFilter">
+        <option value="all">Tous les tests</option>
+        <option value="Test 1">Test 1</option>
+        <option value="Test 2">Test 2</option>
+        <option value="Test 3">Test 3</option>
+        <option value="Test 4">Test 4</option>
+        <option value="Test 5">Test 5</option>
+        <option value="Test 6">Test 6</option>
+      </select>
+
+      <label for="questionCount">Nombre de questions</label>
+      <select id="questionCount">
+        <option value="20">20 questions</option>
+        <option value="40">40 questions</option>
+        <option value="80">80 questions</option>
+        <option value="240">240 questions</option>
+      </select>
+
+      <button id="startBtn">Lancer le test</button>
+    </section>
+
+    <section id="quiz" class="card hidden">
+      <div class="topline">
+        <span id="progressText"></span>
+        <span id="scoreLive"></span>
+      </div>
+      <div class="progressbar">
+        <div id="progressFill"></div>
+      </div>
+
+      <p id="meta"></p>
+      <h2 id="questionText"></h2>
+      <div id="answers"></div>
+
+      <p id="feedback"></p>
+
+      <button id="validateBtn">Valider</button>
+      <button id="nextBtn" class="secondary hidden">Suivant</button>
+    </section>
+
+    <section id="results" class="card hidden">
+      <h2>Résultat</h2>
+      <p id="finalScore" class="final-score"></p>
+      <div id="mistakes"></div>
+      <button id="restartBtn">Recommencer</button>
+      <button id="homeBtn" class="secondary">Accueil</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

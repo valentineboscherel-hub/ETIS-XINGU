@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "Test1-1",
+    "test": "Test 1",
+    "number": 1,
+    "category": "Presentation",
+    "question": "(Presentation) What are the wingspan and the height of the Xingu?",
+    "options": [
+      "A) 12,25 m / 4,45 m",
+      "B) 14,45 m / 4,74 m",
+      "C) 14,74 m / 4,24 m",
+      "D) 12,45 m / 4,74 m"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-2",
+    "test": "Test 1",
+    "number": 2,
+    "category": "Airframe",
+    "question": "(Airframe) The pressurized area is delimited by:",
+    "options": [
+      "A) Frame 8 to Frame 30",
+      "B) Frame 18 to Frame 23",
+      "C) Frame 8 to Frame 23",
+      "D) Frame 18 to Frame 30"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-3",
+    "test": "Test 1",
+    "number": 3,
+    "category": "Flight controls",
+    "question": "(Flight controls) What is the purpose of the ARM-DUMP switch (DUMP position)?",
+    "options": [
+      "A) to delay the pusher operation during flaps extension above 45%",
+      "B) to disable the pusher electric circuit",
+      "C) to disable the shaker electric circuit",
+      "D) to light OFF the STALL WARNING light"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-4",
+    "test": "Test 1",
+    "number": 4,
+    "category": "Flight controls",
+    "question": "(Flight controls) What happens when an acceleration less of 0,5 G is detected?",
+    "options": [
+      "A) the PUSHER operation is automatic",
+      "B) the PUSHER operation is cancelled",
+      "C) the PUSHER operation is activated",
+      "D) the PUSHER operation is delayed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-5",
+    "test": "Test 1",
+    "number": 5,
+    "category": "De-icing system",
+    "question": "(De-icing system) The purpose of the PX heating system is:",
+    "options": [
+      "A) to heat the SFC valve",
+      "B) to protect the FCU from moisture or ice crystals",
+      "C) to prevent ice formation in the compressor inlet",
+      "D) to de-ice the pitot line"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-6",
+    "test": "Test 1",
+    "number": 6,
+    "category": "De-icing system",
+    "question": "(De-icing system) Concerning the pneumatic de-icing system:",
+    "options": [
+      "A) the P3 air comes from the engines air inlet",
+      "B) the green lights illuminate when the associated de-icers are inflated",
+      "C) both engines are needed for a perfect de-icing operation",
+      "D) The three packs of de-icers operate one after the other"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-7",
+    "test": "Test 1",
+    "number": 7,
+    "category": "Fuel system",
+    "question": "(Fuel system) What is the maximum allowed fuel unbalance between the tanks?",
+    "options": [
+      "A) 550 kg",
+      "B) 550 litres",
+      "C) 320 lbs",
+      "D) 550 lbs"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-8",
+    "test": "Test 1",
+    "number": 8,
+    "category": "Fuel system",
+    "question": "(Fuel system) What is the purpose of the inertial valves in the inner tank?",
+    "options": [
+      "A) they enable air to pass between the internal and external tanks",
+      "B) they prevent fuel to pass from the internal tank to the external tank",
+      "C) they prevent the boost pumps from unpriming",
+      "D) they allow fuel transfer between the wings"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-9",
+    "test": "Test 1",
+    "number": 9,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) The HYDR FILTER alarm triggers when the differential pressure reaches:",
+    "options": [
+      "A) 70 PSI for the return filter or 30 PSI for the LP filter",
+      "B) 70 PSI for the return filter or 30 PSI for the HP filter",
+      "C) 70 PSI for the HP filters or 30 PSI for the return filter",
+      "D) 70 PSI for the HP filter and 30 PSI for the LP filter"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-10",
+    "test": "Test 1",
+    "number": 10,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) If the red light remains after landing gear retraction, it means that:",
+    "options": [
+      "A) one of the landing gear doors is open",
+      "B) at least one landing gear is not up locked",
+      "C) such a situation is not possible",
+      "D) the nose wheel steering is not centered"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-11",
+    "test": "Test 1",
+    "number": 11,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What needs the crew to perform an emergency landing gear extension?",
+    "options": [
+      "A) hydraulic valve / hydraulic pump",
+      "B) NORMAL/EMERGENCY selector / electric pump",
+      "C) hydraulic valve / hand pump lever",
+      "D) NORMAL/EMERGENCY selector / hydraulic accumulator"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-12",
+    "test": "Test 1",
+    "number": 12,
+    "category": "O2 circuit",
+    "question": "(O2 circuit) Characteristics of the O2 circuit:",
+    "options": [
+      "A) Cylinder in the inner luggage compartment / Two pressure gauges (cockpit + RHS of tail cone)",
+      "B) Two pressure gauges (cockpit + LHS of tail cone) / Cylinder in the inner luggage compartment",
+      "C) Cylinder in the inner luggage compartment / One pressure gauge (in the cockpit)",
+      "D) Two pressure gauges (cockpit + RHS of tail cone) / Cylinder in the tail cone"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-13",
+    "test": "Test 1",
+    "number": 13,
+    "category": "Fire protection",
+    "question": "(Fire protection) When the FIRE alarm triggers, it means that:",
+    "options": [
+      "A) at least one detector has detected an overheat",
+      "B) the detection system is operational",
+      "C) at least one detector has detected an overheat > 200°F (+40/-0)",
+      "D) the extinguishing liquid has been sprayed"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-14",
+    "test": "Test 1",
+    "number": 14,
+    "category": "Fire protection",
+    "question": "(Fire protection) On aircraft power-up, the FIRE alarm illuminates and must goes OFF:",
+    "options": [
+      "A) before 8 seconds",
+      "B) before 12 seconds",
+      "C) after 12 seconds",
+      "D) after 8 seconds"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-15",
+    "test": "Test 1",
+    "number": 15,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) On the ground, with the air conditioning switch ON, what is the loss of power?",
+    "options": [
+      "A) 3% if the by-pass valve is open",
+      "B) 2% if the by-pass valve is closed",
+      "C) 5% if both throttles are set below 90% NH",
+      "D) 5% if both throttles are set below 90% NG"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-16",
+    "test": "Test 1",
+    "number": 16,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The engine bleed air is picked-up from the:",
+    "options": [
+      "A) engine compressor on right and left engine",
+      "B) axial stage number 3 only on the left engine",
+      "C) compressor turbine on right and left engine",
+      "D) engine compressor only on the left engine"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-17",
+    "test": "Test 1",
+    "number": 17,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) If DUCT LEAKG illuminates on the MAP associated with the right DUCT LEAK light on the air conditioning panel. What is the failure?",
+    "options": [
+      "A) air bleed circuit leak",
+      "B) common circuit leak",
+      "C) left air bleed circuit leak",
+      "D) right air bleed circuit leak"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-18",
+    "test": "Test 1",
+    "number": 18,
+    "category": "Pressurization",
+    "question": "(Pressurization) The maximum structural delta-P of the Xingu is:",
+    "options": [
+      "A) 6,0 PSI",
+      "B) 6,17 PSI",
+      "C) 6,1 PSI",
+      "D) -0,25 PSI"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-19",
+    "test": "Test 1",
+    "number": 19,
+    "category": "Pressurization",
+    "question": "(Pressurization) The overpressure valves open if delta-P reaches:",
+    "options": [
+      "A) 6,0 PSI",
+      "B) 6,17 PSI",
+      "C) 6,1 PSI",
+      "D) -0,25 PSI"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-20",
+    "test": "Test 1",
+    "number": 20,
+    "category": "Engine",
+    "question": "(Engine) The station N°2 in the gas generator is located at the:",
+    "options": [
+      "A) engine air inlet",
+      "B) compressor outlet",
+      "C) compressor inlet",
+      "D) gas-turbine outlet"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-21",
+    "test": "Test 1",
+    "number": 21,
+    "category": "Engine",
+    "question": "(Engine) The main characteristics of the PT6 are:",
+    "options": [
+      "A) free turbine / reverse flow / 680 SHP / 715 ESHP / power group + gas generator group",
+      "B) free turbine / reverse flow / 715 SHP / 680 ESHP / power group + gas generator group",
+      "C) free turbine / normal flow / 680 SHP / 715 ESHP / power group + gas generator group",
+      "D) free turbine / reverse flow / 680 SHP / 715 ESHP / compressor group + gas generator group"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-22",
+    "test": "Test 1",
+    "number": 22,
+    "category": "Engine",
+    "question": "(Engine) What is the maximum power delivered by the PT6A-28?",
+    "options": [
+      "A) 680 ESHP",
+      "B) 680 SHP",
+      "C) 1628 lb.ft in maximum continuous",
+      "D) 2100 lb.ft for 2” maximum"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-23",
+    "test": "Test 1",
+    "number": 23,
+    "category": "Engine",
+    "question": "(Engine) The compressor of the PT6 is fitted with:",
+    "options": [
+      "A) 1 axial stage and 1 centrifugal stage",
+      "B) 1 axial stage and 3 centrifugal stages",
+      "C) 3 axial stages and 3 centrifugal stages",
+      "D) 3 axial stages and 1 centrifugal stage"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-24",
+    "test": "Test 1",
+    "number": 24,
+    "category": "Engine",
+    "question": "(Engine) Which of the following equipment is driven by the engine accessory gearbox (non exhaustive list):",
+    "options": [
+      "A) Fuel Control Unit / Hydraulic pump / Overspeed governor",
+      "B) HP fuel pump / Starting Fuel Control / Ng tachometer",
+      "C) External oil scavenge pumps / Internal oil scavenge pumps / Starter-generator",
+      "D) Ng tachometer / Main oil pump / Nh tachometer"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-25",
+    "test": "Test 1",
+    "number": 25,
+    "category": "Propeller",
+    "question": "(Propeller) If the BETA light illuminates, this means the propeller pitch has reached:",
+    "options": [
+      "A) 17° (+/- 1°)",
+      "B) 20 (+/- 1°)",
+      "C) 14° (+/- 1°)",
+      "D) -11° (+/- 1°)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-26",
+    "test": "Test 1",
+    "number": 26,
+    "category": "Propeller",
+    "question": "(Propeller) What is the aim of the beta ring?",
+    "options": [
+      "A) adjusts the pitch from the propeller lever position",
+      "B) transmits the blade pitch to the propeller governor",
+      "C) transmits the blade pitch to the overspeed governor",
+      "D) adjusts the propeller speed from the propeller lever position"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-27",
+    "test": "Test 1",
+    "number": 27,
+    "category": "Ext Int lights",
+    "question": "(Ext Int lights) What colour is the tail navigation light?",
+    "options": [
+      "A) white",
+      "B) flashing white",
+      "C) green",
+      "D) red"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-28",
+    "test": "Test 1",
+    "number": 28,
+    "category": "Anemometric system",
+    "question": "(Anemometric system) The stand-by static source for the PFD 1 is located:",
+    "options": [
+      "A) inside the tail cone",
+      "B) on the left-hand side of the tail cone",
+      "C) on the right-hand side of the tail cone",
+      "D) there is not such an equipment"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-29",
+    "test": "Test 1",
+    "number": 29,
+    "category": "Malfunction and Alarm system",
+    "question": "(Malfunction and Alarm system) On the multiple alarm panel, what is the difference between red and amber alarms?",
+    "options": [
+      "A) all the red alarms include memory-items",
+      "B) amber alarms are related to non-essential systems",
+      "C) amber alarm checklists take priority over red alarm checklists",
+      "D) red alarm checklists take priority over amber alarm checklists"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-30",
+    "test": "Test 1",
+    "number": 30,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) If the NORMAL / EMERGENCY switch is set to EMERG, which of the following statements includes one or more equipment that are no longer supplied?",
+    "options": [
+      "A) interphone, transponder, auxiliary fuel pumps, multiple alarm panel",
+      "B) AHRS 1, main fuel pumps, multiple alarm panel",
+      "C) AHRS 1, GNS430, ADF",
+      "D) interphone, transponder, multiple alarm panel"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-31",
+    "test": "Test 1",
+    "number": 31,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) Concerning the electric power:",
+    "options": [
+      "A) both inverters supply the alternating current simultaneously",
+      "B) Inverter 1 takes priority over Inverter 2",
+      "C) Inverter 2 takes priority over Inverter 1",
+      "D) Inverter 1 supplies buses 115/26 VAC in emergency operation, while Inverter 2 supplies buses 115/26 VAC in normal operation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-32",
+    "test": "Test 1",
+    "number": 32,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) What happens if a circuit breaker above 10 Amps triggers?",
+    "options": [
+      "A) nothing (these are circuit breakers not connected to the CIRCUIT BREAKER alarm)",
+      "B) the CIRCUIT BREAKER alarm illuminates on the MAP",
+      "C) other alarms or symptoms will enable the identification of the faulty system",
+      "D) the CIRCUIT BREAKER alarm illuminates on the MAP and the CAUTION light (amber) illuminates on the master caution system"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-33",
+    "test": "Test 1",
+    "number": 33,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) The HDG mode enables:",
+    "options": [
+      "A) heading capture (max 27°) and holding",
+      "B) heading capture (max 22°) and holding",
+      "C) heading capture (max 37°) and holding",
+      "D) heading capture (max 32°) and holding"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-34",
+    "test": "Test 1",
+    "number": 34,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) The V/L mode enables:",
+    "options": [
+      "A) only a VOR or LOC course capture and holding",
+      "B) a VOR or LOC or GPS track capture and holding",
+      "C) an ADF course capture and holding",
+      "D) all answers are correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-35",
+    "test": "Test 1",
+    "number": 35,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What does ADC mean?",
+    "options": [
+      "A) Attitude Display Computer",
+      "B) Air Data Computer",
+      "C) Airborne Datalink Computer",
+      "D) Artificial Director Controller"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test1-36",
+    "test": "Test 1",
+    "number": 36,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) If MC triggers on the MFD, it means that:",
+    "options": [
+      "A) there is a Miscompare (MC) between EM1 and EM2",
+      "B) the difference between Left Engine Torque and Right Engine Torque exceeds 300 lb.ft",
+      "C) the Multi-Combination (MC) of sensors have failed",
+      "D) the MFD is Charging (MC) after start-up"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-37",
+    "test": "Test 1",
+    "number": 37,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) In case of ADC1 failure, what alarm is displayed on PFD1?",
+    "options": [
+      "A) none, the alarms are displayed on the multiple alarm panel",
+      "B) NIU1 FAIL",
+      "C) IAS or ALT",
+      "D) ADC1 FAIL"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test1-38",
+    "test": "Test 1",
+    "number": 38,
+    "category": "Navigation equipment",
+    "question": "(Navigation equipment) About the VOR/ILS, what is true?",
+    "options": [
+      "A) VOR-ILS 2 by GNS430W / frequency range 108.00-117.95 Mhz / VOR-ILS 1 by SL30",
+      "B) VOR-ILS 1 by SL30 / frequency range 108.00-136.975 Mhz / VOR-ILS 2 by GNS430W",
+      "C) frequency range 108.00-117.95 Mhz / VOR-ILS 1 by GNS430W / VOR-ILS 2 by SL30",
+      "D) frequency range 108.00-136.975 Mhz / VOR-ILS 1 by GNS430W / VOR-ILS 2 by SL30"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test1-39",
+    "test": "Test 1",
+    "number": 39,
+    "category": "Transponder",
+    "question": "(Transponder) About the pressure altitude encoded by the transponder:",
+    "options": [
+      "A) receive by ADC 1 and ADC 2 (back-up), can be displayed on the GTX330 screen",
+      "B) only ADC 1, can be displayed on the GTX330 screen",
+      "C) only ADC 1, is not displayed on the GTX330 screen",
+      "D) receive by ADC 1 and ADC 2 (back-up), is not displayed on the GTX330 screen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test1-40",
+    "test": "Test 1",
+    "number": 40,
+    "category": "Weather radar",
+    "question": "(Weather radar) About the FAF weather radar:",
+    "options": [
+      "A) range from 5 to 320 Nm / pitch and roll information from AHRS2 / antenna stabilized",
+      "B) range from 5 to 240 Nm / pitch and roll information from AHRS1 / antenna not stabilized",
+      "C) range from 5 to 320 Nm / pitch and roll information from AHRS1 / antenna stabilized",
+      "D) range from 5 to 240 Nm / pitch and roll information from AHRS1 / antenna not stabilized"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-1",
+    "test": "Test 2",
+    "number": 1,
+    "category": "Presentation",
+    "question": "(Presentation) Concerning the European Regulation, the Xingu is:",
+    "options": [
+      "A) a complex aircraft",
+      "B) a high-performance aeroplane",
+      "C) a complex and high-performance aeroplane",
+      "D) a non-complex and non high-performance aeroplane"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-2",
+    "test": "Test 2",
+    "number": 2,
+    "category": "Airframe",
+    "question": "(Airframe) The emergency equipment include:",
+    "options": [
+      "A) Smoke googles + 1 Halon fire extinguishers + Hatchet + Life vests + Emergency exit",
+      "B) O2 masks + 1 CO2 fire extinguishers + Hatchet + Life vests + 1st aid kit",
+      "C) Smoke googles + 2 Halon fire extinguishers + Life vests + 1st aid kit + Emergency exit",
+      "D) O2 masks + smoke googles + 2 Halon fire extinguishers + Hatchet + 1st aid kit"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-3",
+    "test": "Test 2",
+    "number": 3,
+    "category": "Flight controls",
+    "question": "(Flight controls) What happens when the flaps are extended more than 45%?",
+    "options": [
+      "A) the PUSHER operation is cancelled",
+      "B) the PUSHER operation is automatic",
+      "C) the PUSHER operation is activated",
+      "D) the PUSHER operation is delayed"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-4",
+    "test": "Test 2",
+    "number": 4,
+    "category": "Flight controls",
+    "question": "(Flight controls) The Angle of Attack pointer is displayed:",
+    "options": [
+      "A) on the MFD, below engine instruments",
+      "B) on the left PFD",
+      "C) on the instruments panel",
+      "D) on both EADI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-5",
+    "test": "Test 2",
+    "number": 5,
+    "category": "De-icing system",
+    "question": "(De-icing system) When the pneumatic de-icing system is set on SLOW, the de-icers inflate:",
+    "options": [
+      "A) for 6 seconds then rest during 54 sec",
+      "B) for 54 seconds then rest during 6 sec",
+      "C) for 6 seconds then rest during 2 min 54 sec",
+      "D) for 2 min 54 seconds then rest during 6 sec"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-6",
+    "test": "Test 2",
+    "number": 6,
+    "category": "De-icing system",
+    "question": "(De-icing system) When the green lights LH WING, T TAIL, RH WING, remain OFF during SLOW cycle, it means that:",
+    "options": [
+      "A) the operation of the de-icers is normal",
+      "B) the pressure inside the circuit is above 10 PSI",
+      "C) the pressure inside the circuit is above 23 PSI",
+      "D) the pressure inside the circuit is below 10 PSI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-7",
+    "test": "Test 2",
+    "number": 7,
+    "category": "Fuel system",
+    "question": "(Fuel system) What is the non-usable fuel par wing?",
+    "options": [
+      "A) 28 litres if both pumps are ON",
+      "B) 14 litres if main pump is ON and auxiliary pump on AUTO",
+      "C) 54 litres if main pump is inoperative and auxiliary pump on AUTO",
+      "D) B and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-8",
+    "test": "Test 2",
+    "number": 8,
+    "category": "Fuel system",
+    "question": "(Fuel system) What is the purpose of the fuel drainage tank?",
+    "options": [
+      "A) to collect the fuel during overpressure at 35 PSI",
+      "B) to recover the fuel which has been drained during engine cut-off",
+      "C) to collect the fuel which has been drained during low pressure filter blow off",
+      "D) to recover the fuel which has been drained into the combustion chamber"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-9",
+    "test": "Test 2",
+    "number": 9,
+    "category": "Hydraulic system",
+    "question": "(Hydraulic system) Concerning the hydraulic system:",
+    "options": [
+      "A) the normal hydraulic pressure is 1000 PSI",
+      "B) the HYDR PRESS alarm triggers if hydraulic pressure drops below 3000 PSI",
+      "C) the emergency pump delivers 3000 PSI",
+      "D) the overpressure valve protects the circuit if pressure reaches 3290 PSI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-10",
+    "test": "Test 2",
+    "number": 10,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) How does the crew know that one landing gear door is not uplocked (gear up operation)?",
+    "options": [
+      "A) there is no way to know",
+      "B) the corresponding green light remains ON",
+      "C) the corresponding green light remains ON, and the red light remains ON",
+      "D) the red light remains ON"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-11",
+    "test": "Test 2",
+    "number": 11,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What is the purpose of the centering accumulator?",
+    "options": [
+      "A) to centre the nose wheel after lift-off",
+      "B) to steer the nose wheel 40° right or left",
+      "C) to avoid shimmy effect",
+      "D) answers A and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-12",
+    "test": "Test 2",
+    "number": 12,
+    "category": "O2 circuit",
+    "question": "(O2 circuit) When the OXYG PRESS alarm triggers on the MAP, it means that the pressure inside the O2 cylinder is:",
+    "options": [
+      "A) below 1850 PSI",
+      "B) below 200 PSI",
+      "C) below 200 bar",
+      "D) below 1820 PSI"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-13",
+    "test": "Test 2",
+    "number": 13,
+    "category": "Fire protection",
+    "question": "(Fire protection) What does the engine fire extinguisher contain?",
+    "options": [
+      "A) Carbon dioxide at 350 PSI (at 21°C)",
+      "B) Halon at 360 PSI (at 21°C)",
+      "C) Halon at 350 PSI (at 21°C)",
+      "D) Carbon dioxide at 360 PSI (at 21°C)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-14",
+    "test": "Test 2",
+    "number": 14,
+    "category": "Fire protection",
+    "question": "(Fire protection) What are the characteristics of the fire detection circuit?",
+    "options": [
+      "A) 7 detectors triggering the FIRE alarm if temperature reach 200°C (+40/-0)",
+      "B) 9 detectors triggering the FIRE alarm if temperature reach 200°C (+40/-0)",
+      "C) 2 + 7 detectors (1 near the engine hot parts and 8 close to the accessory box)",
+      "D) 9 detectors which are energised by the 26 VAC EMERGENCY bar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-15",
+    "test": "Test 2",
+    "number": 15,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The purpose of the venturi inside the air conditioning duct is:",
+    "options": [
+      "A) to increase the air flow",
+      "B) to decrease the pressure inside the duct before the 39 PSI switch",
+      "C) to limit the engine power loss at 3%",
+      "D) to reduce the air pressure before the air cycle machine"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-16",
+    "test": "Test 2",
+    "number": 16,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The air cycle machine:",
+    "options": [
+      "A) can produce only hot air thanks to the heat exchanger",
+      "B) ventilates the cabin through the ventilation valve",
+      "C) is located in the nose cone",
+      "D) generates air at a desired temperature"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-17",
+    "test": "Test 2",
+    "number": 17,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) When AIRCOND triggers on the Multiple Alarm Panel, it means that:",
+    "options": [
+      "A) there is an overpressure in the duct",
+      "B) there is a leak along the duct",
+      "C) both engine bleed air are automatically closed",
+      "D) an overpressure or an overtemp is detected in the duct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-18",
+    "test": "Test 2",
+    "number": 18,
+    "category": "Pressurization",
+    "question": "(Pressurization) If the pressure inside the cabin decreases, the cabin altitude:",
+    "options": [
+      "A) increases",
+      "B) decreases",
+      "C) remains constant",
+      "D) drops to zero"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-19",
+    "test": "Test 2",
+    "number": 19,
+    "category": "Pressurization",
+    "question": "(Pressurization) When the crew selects DEPRESS on the pressurization panel:",
+    "options": [
+      "A) the overpressure valves open immediately, and the aircraft is depressurized",
+      "B) the cabin pressure becomes equal to the outside pressure",
+      "C) the delta-P increases to its maximum value",
+      "D) the pressure inside the cabin remains constant if the aircraft is airborne (safety switch on right landing gear)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-20",
+    "test": "Test 2",
+    "number": 20,
+    "category": "Engine",
+    "question": "(Engine) What is the ratio of the reduction gearbox and the associated maximum propeller rotation speed?",
+    "options": [
+      "A) ratio 1/3 et Nh = 2200 rpm",
+      "B) ratio 1/15 et Nh = 3300 rpm",
+      "C) ratio 1/15 et Nh = 2200 rpm",
+      "D) ratio 1/15 et Nh = 33000 rpm"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-21",
+    "test": "Test 2",
+    "number": 21,
+    "category": "Engine",
+    "question": "(Engine) The engine air circuit is also used:",
+    "options": [
+      "A) to pressurize the hydraulic tank",
+      "B) to protect the compressor from FOD",
+      "C) to cool the internal bearings",
+      "D) to cool the starter-generator"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-22",
+    "test": "Test 2",
+    "number": 22,
+    "category": "Engine",
+    "question": "(Engine) What are the consequences on the parameters when you set inertial separation ON?",
+    "options": [
+      "A) power ≈ – 2 % / T5 ≈ + 15°C / torque ≈ – 50 lb.ft",
+      "B) power ≈ – 2 % / T5 ≈ – 15°C / torque ≈ – 50 lb.ft",
+      "C) power ≈ – 3 % / T5 ≈ + 15°C / torque ≈ – 50 lb.ft",
+      "D) power ≈ – 3 % / T5 ≈ – 15°C / torque ≈ – 50 lb.ft"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-23",
+    "test": "Test 2",
+    "number": 23,
+    "category": "Engine",
+    "question": "(Engine) The purpose of the compressor bleed valve is:",
+    "options": [
+      "A) to avoid compressor stall during engine acceleration",
+      "B) to pick-up air for the air conditioning system",
+      "C) to pick-up air for the pneumatic de-icing",
+      "D) all the statements are false"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-24",
+    "test": "Test 2",
+    "number": 24,
+    "category": "Engine",
+    "question": "(Engine) What is the minimum oil temperature recommended?",
+    "options": [
+      "A) 80° to 100° in normal operation",
+      "B) 40°",
+      "C) 55° for fuel heating purpose",
+      "D) 60°"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-25",
+    "test": "Test 2",
+    "number": 25,
+    "category": "Propeller",
+    "question": "(Propeller) What is the propeller governor range speed?",
+    "options": [
+      "A) 65% to 100% NH",
+      "B) 50% to 100% NH",
+      "C) 75% to 100% NH",
+      "D) 75% to 104% NH"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-26",
+    "test": "Test 2",
+    "number": 26,
+    "category": "Propeller",
+    "question": "(Propeller) To check the BETA light, the crew may:",
+    "options": [
+      "A) press the BETA light itself",
+      "B) perform the BETA test",
+      "C) press the TEST switch on the MAP",
+      "D) answers A and C are correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-27",
+    "test": "Test 2",
+    "number": 27,
+    "category": "Ext Int lights",
+    "question": "(Ext Int lights) What is the difference between strobe lights and anti-collision lights?",
+    "options": [
+      "A) the power of strobe lights (white) is higher than the anti-collision lights (white)",
+      "B) the power of anti-collision lights (red) is higher than the strobe light (white)",
+      "C) the power of strobe lights (white) is higher than the anti-collision lights (red)",
+      "D) the power of anti-collision lights (white) is lower than the strobe light (red)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-28",
+    "test": "Test 2",
+    "number": 28,
+    "category": "Anemometric system",
+    "question": "(Anemometric system) The stand-by instruments are fed by:",
+    "options": [
+      "A) the emergency Pitot system",
+      "B) the ADC 2",
+      "C) the right-hand side Pitot system",
+      "D) answers B and C are correct"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-29",
+    "test": "Test 2",
+    "number": 29,
+    "category": "Malfunction and Alarm system",
+    "question": "(Malfunction and Alarm system) About the multiple alarm panel (MAP):",
+    "options": [
+      "A) the master CAUTION light is amber, and the master WARNING light is red",
+      "B) the EMERGENCY master light is red, and the master CAUTION light is amber",
+      "C) the master CAUTION light is red, and the master WARNING light is amber",
+      "D) the WARNING master light is amber, and the EMERGENCY master light is red"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-30",
+    "test": "Test 2",
+    "number": 30,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) What are the battery characteristics?",
+    "options": [
+      "A) 24V (DC), 24 to 36 Amps/H",
+      "B) 36V (DC), 36 to 40 Amps/H",
+      "C) 24V (DC), 24 to 36 Amps/H",
+      "D) 24V (DC), 36 to 40 Amps/H"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-31",
+    "test": "Test 2",
+    "number": 31,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) The BAT OVER TEMP alarm triggers at:",
+    "options": [
+      "A) 150°C",
+      "B) 150°F",
+      "C) 165°C",
+      "D) 165°F"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-32",
+    "test": "Test 2",
+    "number": 32,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) In case of shedding, the alternative current is provided by:",
+    "options": [
+      "A) the inverter 1",
+      "B) the generator 2",
+      "C) the generator 1",
+      "D) the inverter 2"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-33",
+    "test": "Test 2",
+    "number": 33,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) The ALT mode enables an:",
+    "options": [
+      "A) altitude capture",
+      "B) altitude holding",
+      "C) altitude capture and holding (if VSI < 500 Ft/min)",
+      "D) altitude capture and holding (if VSI > 500 Ft/min)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-34",
+    "test": "Test 2",
+    "number": 34,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) The IAS mode enables:",
+    "options": [
+      "A) IAS capture and holding by pitch adjustment",
+      "B) IAS holding if autothrottle is engaged",
+      "C) IAS holding by pitch adjustment",
+      "D) IAS capture by pitch adjustment"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-35",
+    "test": "Test 2",
+    "number": 35,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What is the function of the ADC?",
+    "options": [
+      "A) to provide an Attitude Director Calculation for the PFD",
+      "B) to display the engine parameters",
+      "C) to compute the altitude, IAS and VSI of the aircraft",
+      "D) to enable the RAIM protection"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-36",
+    "test": "Test 2",
+    "number": 36,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) The PFD35 is:",
+    "options": [
+      "A) the equipment that enable ADC and NIU function",
+      "B) the equipment for attitude reference calculation",
+      "C) the SAGEM reference for the primary flight display screen",
+      "D) the equipment used for engine parameters (also called Engine Monitoring System)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test2-37",
+    "test": "Test 2",
+    "number": 37,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What does PFD mean?",
+    "options": [
+      "A) it is the SAGEM reference of the equipment",
+      "B) Primary Flight Data",
+      "C) Pilot Flight Data",
+      "D) Primary Flight Display"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test2-38",
+    "test": "Test 2",
+    "number": 38,
+    "category": "Navigation equipment",
+    "question": "(Navigation equipment) About the ADF:",
+    "options": [
+      "A) range 190 to 1750 kHz / ADF = identification / ANT = identification + bearing TEST = relative bearing of 45° on RMI + 1000Hz modulation",
+      "B) ADF = identification + bearing / range 190 to 1213 mHz / ANT = identification TEST = relative bearing of 45° on RMI + 1000Hz modulation",
+      "C) ANT = identification / range 190 to 1750 kHz / ADF = identification + bearing TEST = relative bearing of 45° on RMI + 1000Hz modulation",
+      "D) range 190 to 1750 kHz / ANT = identification / ADF = identification + bearing TEST = relative bearing of 90° on RMI + 100Hz modulation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test2-39",
+    "test": "Test 2",
+    "number": 39,
+    "category": "Transponder",
+    "question": "(Transponder) Meaning of the following keys when pressed = VFR / ALT / ON :",
+    "options": [
+      "A) the 7000 code is displayed / modes A + S / mode A (ground/airborne logic) + mode C",
+      "B) the 7000 code is displayed / modes A + C / mode A (ground/airborne logic)",
+      "C) the 2000 code is displayed / modes A + C / mode A (ground/airborne logic) + mode S",
+      "D) the 7000 code is displayed / modes A + C / mode C"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test2-40",
+    "test": "Test 2",
+    "number": 40,
+    "category": "Weather radar",
+    "question": "(Weather radar) On FAF weather radar, what are the usable modes:",
+    "options": [
+      "A) NAV MAP, Wx, GND MAP",
+      "B) WxA, NAV MAP, Wx",
+      "C) Wx, GND MAP, WxA",
+      "D) GND MAP, WxA, NAV MAP"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-1",
+    "test": "Test 3",
+    "number": 1,
+    "category": "Presentation",
+    "question": "(Presentation) The initial certification of the Xingu was established according to:",
+    "options": [
+      "A) JAR 23 standards",
+      "B) JAR 25 standards",
+      "C) CS 23 standards",
+      "D) FAR 23 standards"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-2",
+    "test": "Test 3",
+    "number": 2,
+    "category": "Airframe",
+    "question": "(Airframe) About the front luggage compartment:",
+    "options": [
+      "A) two access door / pressurized / max weight 80kg / nose cone",
+      "B) not pressurized / two access door / max weight 90kg / nose cone",
+      "C) / max weight 90kg / one access door / not pressurized / nose cone",
+      "D) nose cone / two access door / not pressurized / max weight 80kg"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-3",
+    "test": "Test 3",
+    "number": 3,
+    "category": "Flight controls",
+    "question": "(Flight controls) Concerning the Angle of Attack pointer:",
+    "options": [
+      "A) “F” means that the speed is ≥ 1,4 Vs",
+      "B) “F” means that the speed is = 1,45 Vs",
+      "C) the Central mark is ≈ 1,1 Vs",
+      "D) the Upper dot is ≈ 1,4 Vs"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-4",
+    "test": "Test 3",
+    "number": 4,
+    "category": "Flight controls",
+    "question": "(Flight controls) The shaker system is located:",
+    "options": [
+      "A) in the tail cone and it is linked to the pitch channel",
+      "B) in the tail cone and it is linked to the pitch and roll channels",
+      "C) only on the left control column",
+      "D) on both control columns"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-5",
+    "test": "Test 3",
+    "number": 5,
+    "category": "De-icing system",
+    "question": "(De-icing system) If the pressure inside the pneumatic de-icing system is above 23 PSI:",
+    "options": [
+      "A) the WING-TAIL alarm triggers on the multiple alarm panel",
+      "B) there is no way for the crew to know that",
+      "C) the shut-off valve automatically closes the circuit",
+      "D) the overpressure valve deflates the de-icers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-6",
+    "test": "Test 3",
+    "number": 6,
+    "category": "De-icing system",
+    "question": "(De-icing system) Concerning the engine air inlet anti-icing system:",
+    "options": [
+      "A) it operates only if engine oil pressure is above 50 PSI",
+      "B) the light is ON if the system is working properly and is OFF when there is a failure",
+      "C) a thermostat regulates the temperature between 32° and 51°",
+      "D) it operates only if engine oil temperature is above 50° C"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-7",
+    "test": "Test 3",
+    "number": 7,
+    "category": "Fuel system",
+    "question": "(Fuel system) What is the total tanks capacity?",
+    "options": [
+      "A) 860 lbs per wing",
+      "B) 320 litres per tank",
+      "C) 1720 litres",
+      "D) 1720 lbs"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-8",
+    "test": "Test 3",
+    "number": 8,
+    "category": "Fuel system",
+    "question": "(Fuel system) What is the total usable fuel?",
+    "options": [
+      "A) 846 litres per wing (main pumps are operative)",
+      "B) 1692 litres per wing (main pumps are inoperative)",
+      "C) 1692 litres if the cross-feed valve is open (main pumps are operative)",
+      "D) answers A and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-9",
+    "test": "Test 3",
+    "number": 9,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) The landing gear doors open:",
+    "options": [
+      "A) hydraulically, thanks to the landing gear door actuator",
+      "B) electrically, thanks to the extension or retractation solenoid valve",
+      "C) mechanically, thanks to rods connected to the landing gear strut",
+      "D) automatically by gravity"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-10",
+    "test": "Test 3",
+    "number": 10,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) The purpose of the hydraulic valve (on right side of the central console) is:",
+    "options": [
+      "A) to activate the emergency circuit supply in case of emergency gear retraction",
+      "B) to activate the emergency circuit supply in case of emergency gear extension",
+      "C) to avoid back-pressure in the hydraulic circuit",
+      "D) answers B and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-11",
+    "test": "Test 3",
+    "number": 11,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) When the HYDR FLUID LEVEL alarm triggers, it means that:",
+    "options": [
+      "A) the hydraulic tank emergency compartment is empty",
+      "B) the crew cannot use the brakes",
+      "C) the level in the hydraulic tank is below 4 litres",
+      "D) the main hydraulic accumulator is empty"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-12",
+    "test": "Test 3",
+    "number": 12,
+    "category": "O2 circuit",
+    "question": "(O2 circuit) The minimum quantity of O2 for a flight:",
+    "options": [
+      "A) is 1850 PSI",
+      "B) is 2150 PSI",
+      "C) can be checked in the Operating Manual",
+      "D) depends on cruising altitude"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-13",
+    "test": "Test 3",
+    "number": 13,
+    "category": "Fire protection",
+    "question": "(Fire protection) When pressing the test button, the OK light means that:",
+    "options": [
+      "A) the pressure inside the extinguisher is 360 PSI (at 21°C)",
+      "B) the detection system is OK",
+      "C) the squib circuit is operational",
+      "D) the cartridge has been armed"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-14",
+    "test": "Test 3",
+    "number": 14,
+    "category": "Fire protection",
+    "question": "(Fire protection) On the fire extinguisher T-handle, the E light means that:",
+    "options": [
+      "A) the pressure inside the cylinder is exhausted",
+      "B) the electrical line is working",
+      "C) the extinguisher cylinder is empty",
+      "D) the squib has been actuated by the T-handle"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-15",
+    "test": "Test 3",
+    "number": 15,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The ventilation of the cabin with outside air (VENT):",
+    "options": [
+      "A) is only possible on ground",
+      "B) is controlled by the air conditioning switch",
+      "C) is impossible in flight (right landing gear microswitch)",
+      "D) delivers enough air to pressurized the cabin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-16",
+    "test": "Test 3",
+    "number": 16,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) When too much hot air is requested by the crew to warm the cabin:",
+    "options": [
+      "A) it may result in an overheat detection",
+      "B) the DUCT LEAK alarm may trigger at 88°",
+      "C) it may result in an air cycle jamming due to an excess of hot air",
+      "D) the passengers may feel uncomfortable"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-17",
+    "test": "Test 3",
+    "number": 17,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) You have a DUCT LEAKG warning on the MAP only. After setting the air conditioning switch on “VENT”, the DUCT LEAKG warning remains on the MAP. What are all the systems you are going to loose?",
+    "options": [
+      "A) air conditioning + pneumatic de-icing",
+      "B) pressurization + pneumatic de-icing",
+      "C) pneumatic de-icing + air conditioning + pressurization",
+      "D) air conditioning + pressurization"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-18",
+    "test": "Test 3",
+    "number": 18,
+    "category": "Pressurization",
+    "question": "(Pressurization) When the neutral rate is selected (rate selector in the notch), the cabin:",
+    "options": [
+      "A) climbs at 400 ft/min and descends at 300 ft/min",
+      "B) climbs at 650 Ft/min and descends at 300 ft/min",
+      "C) climbs at 650 ft/min and descends at 450 ft/min",
+      "D) climbs at 1200 ft/min and descends at 1000 ft/min"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-19",
+    "test": "Test 3",
+    "number": 19,
+    "category": "Pressurization",
+    "question": "(Pressurization) The normal pressurization of the cabin is controlled:",
+    "options": [
+      "A) by increasing or decreasing the flow of air coming from the engine",
+      "B) by opening or closing the engine bleed air",
+      "C) by selecting DEPRESS",
+      "D) by opening or closing the outflow valves"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-20",
+    "test": "Test 3",
+    "number": 20,
+    "category": "Engine",
+    "question": "(Engine) Which of the following component is supplied by the engine lubrication circuit?",
+    "options": [
+      "A) the torque meter chamber",
+      "B) the oil-to-fuel heat exchanger",
+      "C) the propeller governor",
+      "D) all answers are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-21",
+    "test": "Test 3",
+    "number": 21,
+    "category": "Engine",
+    "question": "(Engine) OIL PRESS alarm will trigger on the MAP if oil pressure drops below:",
+    "options": [
+      "A) 80 PSI",
+      "B) 72 PSI",
+      "C) 40 PSI",
+      "D) 50 PSI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-22",
+    "test": "Test 3",
+    "number": 22,
+    "category": "Engine",
+    "question": "(Engine) When CHIP DETECT alarm illuminates on the MAP:",
+    "options": [
+      "A) some chips of metal have been detected in the propeller reduction gearbox",
+      "B) some chips of metal have been detected in the accessory gearbox",
+      "C) some engine bearings are damaged",
+      "D) it is mandatory to shut down the engine"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-23",
+    "test": "Test 3",
+    "number": 23,
+    "category": "Engine",
+    "question": "(Engine) Why is it strictly forbidden to set the throttles in the taxi/reverse range when engines are shut down?",
+    "options": [
+      "A) the fuel may flow inside the combustion chamber",
+      "B) an overpressure may occur inside the lubrication system",
+      "C) the beta valve and the teleflex may be damaged",
+      "D) an unexpected propeller movement may injure a mechanic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-24",
+    "test": "Test 3",
+    "number": 24,
+    "category": "Engine",
+    "question": "(Engine) What is the maximum continuous temperature (T5)?",
+    "options": [
+      "A) 925°",
+      "B) 750°",
+      "C) 1090°",
+      "D) 695°"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-25",
+    "test": "Test 3",
+    "number": 25,
+    "category": "Propeller",
+    "question": "(Propeller) The NF governor section enables an overspeed protection:",
+    "options": [
+      "A) of the power turbine by decreasing the fuel flow",
+      "B) of the propeller by increasing the pitch",
+      "C) of the gas generator by closing the metering valve",
+      "D) of the power group by closing the SFC valve"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-26",
+    "test": "Test 3",
+    "number": 26,
+    "category": "Propeller",
+    "question": "(Propeller) The autofeather is armed when:",
+    "options": [
+      "A) when the torque is above 370 lb.ft",
+      "B) the system is SET and when both propeller levers are above 90%",
+      "C) the two green lights are illuminated",
+      "D) the system is SET and when both power levers are below 90%"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-27",
+    "test": "Test 3",
+    "number": 27,
+    "category": "Ext Int lights",
+    "question": "(Ext Int lights) Concerning external lights, there are:",
+    "options": [
+      "A) 2 inspection lights + 4 nav lights + 3 strobe lights + 3 anti-collision lights",
+      "B) 4 inspection lights + 3 nav lights + 4 strobe lights + 2 anti-collision lights",
+      "C) 4 inspection lights + 4 nav lights + 3 strobe lights + 2 anti-collision lights",
+      "D) 2 inspection lights + 3 nav lights + 4 strobe lights + 3 anti-collision lights"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-28",
+    "test": "Test 3",
+    "number": 28,
+    "category": "Anemometric system",
+    "question": "(Anemometric system) Concerning the static circuit, each lower is connected to the opposite upper port. Why ?",
+    "options": [
+      "A) to absorb sudden pressure rises",
+      "B) to compensate aerodynamic effects",
+      "C) to maintain a constant static pressure to the instruments",
+      "D) all answers are correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-29",
+    "test": "Test 3",
+    "number": 29,
+    "category": "Malfunction and Alarm system",
+    "question": "(Malfunction and Alarm system) After the identification of an alarm on the multiple alarm panel (MAP), you must:",
+    "options": [
+      "A) cut the horn by pressing the CAUTION light on the master caution & warning system",
+      "B) press the WARNING light on the master caution system, and then cut the horn",
+      "C) press the WARNING or the CAUTION light (it does not matter) on the master caution system",
+      "D) press the WARNING or the CAUTION light on the master caution system, according to red or amber light on the MAP"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-30",
+    "test": "Test 3",
+    "number": 30,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) What are the functions of the Generator Control Unit (GCU)?",
+    "options": [
+      "A) it protects the generator from an over-current",
+      "B) it regulates the output voltage of the generator",
+      "C) it controls the starting sequence",
+      "D) all answers are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-31",
+    "test": "Test 3",
+    "number": 31,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) If GENERATOR 1 illuminates on the MAP, it means that:",
+    "options": [
+      "A) the generator 1 is not connected to the main bus bar",
+      "B) the generator 1 unserviceable",
+      "C) the main bus bar is supplied by the battery only",
+      "D) the generator 1 is not supplied"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-32",
+    "test": "Test 3",
+    "number": 32,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) When an external power (GPU) is connected to the aircraft:",
+    "options": [
+      "A) all the bus bars are supplied by the GPU",
+      "B) the battery bus bar is supplied by the aircraft battery",
+      "C) it is possible to reload the aircraft battery",
+      "D) it impossible to check the GPU voltage (except on the GPU itself)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-33",
+    "test": "Test 3",
+    "number": 33,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) The APP ARM mode enables:",
+    "options": [
+      "A) capture (max 27°) and holding (max 13°) of the localizer + capture and holding (+7°/- 6°) of the glide",
+      "B) capture (max 22°) and holding (max 13°) of the LOC + capture and holding (+20°/- 6°) of the glide",
+      "C) capture (22°) and holding (max 13°) of the localizer + capture and holding (+7°/- 6°) of the glide",
+      "D) capture (27°) and holding (max 13°) of the localizer + capture and holding (+20°/- 6°) of the glide"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test3-34",
+    "test": "Test 3",
+    "number": 34,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) The AP & Y/D disconnect without alarm when:",
+    "options": [
+      "A) the pusher triggers / pressing the AP pushbutton",
+      "B) pressing the AP pushbutton / failure of AHRS1",
+      "C) proper handling of trim switch / the shaker triggers",
+      "D) failure of AHRS2 / the shaker triggers"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-35",
+    "test": "Test 3",
+    "number": 35,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What does MFD mean?",
+    "options": [
+      "A) Multi-engine Flight Display",
+      "B) Multi-function Display",
+      "C) Main Frequency Display",
+      "D) Master Function Data"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-36",
+    "test": "Test 3",
+    "number": 36,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) In case of dual AHRS failure, the pilot:",
+    "options": [
+      "A) must reset the AHRS master switch (OFF/ON)",
+      "B) must use the emergency instruments",
+      "C) must select the appropriate source with the AHRS/ADC switch and then perform the checklist",
+      "D) just request the AHRS 1 AND AHRS 2 checklist"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-37",
+    "test": "Test 3",
+    "number": 37,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) Concerning AHRS:",
+    "options": [
+      "A) the AHRS provides air data (IAS and ALT) for the PFD",
+      "B) the AHRS 1 is only linked to the PFD 1",
+      "C) the AHRS provides an attitude and a heading references",
+      "D) the AHRS 2 is used as an emergency horizon only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test3-38",
+    "test": "Test 3",
+    "number": 38,
+    "category": "Navigation equipment",
+    "question": "(Navigation equipment) About the TACAN:",
+    "options": [
+      "A) 126 channels mode X and Y / REC = bearing + identification / TR = bearing + identification + distance TEST = bearing 360° on RMI + 1000 Hz modulation",
+      "B) REC = bearing + identification+ distance / 126 channels mode X and Y / TR = bearing + identification TEST = bearing 360° on RMI + 1000 Hz modulation",
+      "C) 126 channels mode X and Y / REC = bearing + identification / TR = bearing + identification + distance TEST = bearing 45° on RMI + 1000 kHz modulation",
+      "D) 190 channels mode X and Y / REC = bearing + identification / TR = bearing + identification TEST = bearing 360° on RMI + 1000 Hz modulation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test3-39",
+    "test": "Test 3",
+    "number": 39,
+    "category": "Transponder",
+    "question": "(Transponder) About the modes sent by the transponder:",
+    "options": [
+      "A) Mode A : ATC code (4096) / mode C : selected FL",
+      "B) Mode A : ATC code (4096) / mode C : pressure altitude",
+      "C) Mode A : ATC code (9999) / mode C : pressure altitude",
+      "D) Mode A : ATC code (9999) / mode C : selected FL"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test3-40",
+    "test": "Test 3",
+    "number": 40,
+    "category": "Communication equipment",
+    "question": "(Communication equipment) The operating switch on the UHF control box has 4 positions: A, P, P+G and RC. Why must you never set it to RC ?",
+    "options": [
+      "A) because UHF can only transmit",
+      "B) because you transmit only on GUARD (243.00 MHz)",
+      "C) because UHF can neither transmit nor receive",
+      "D) because UHF can only receive a signal"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-1",
+    "test": "Test 4",
+    "number": 1,
+    "category": "Presentation",
+    "question": "(Presentation) The minimum width (wheel path clearance) for a 180° on the ground is:",
+    "options": [
+      "A) 21,50 m",
+      "B) 10,73 m",
+      "C) 12,20 m",
+      "D) 14,45m"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-2",
+    "test": "Test 4",
+    "number": 2,
+    "category": "Airframe",
+    "question": "(Airframe) About the inner luggage compartment:",
+    "options": [
+      "A) safety net / pressurized / max weight 90kg / accessible in flight",
+      "B) pressurized / max weight 80kg / accessible in flight / one access door",
+      "C) max weight 80kg / pressurized / safety net / accessible in flight",
+      "D) not accessible in flight / pressurized / max weight 80kg / safety net"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-3",
+    "test": "Test 4",
+    "number": 3,
+    "category": "Flight controls",
+    "question": "(Flight controls) Concerning the shaker operation:",
+    "options": [
+      "A) the shaker triggers if computers 1 and 2 detect a signal reaching a predetermined value",
+      "B) the shaker triggers if the associated computer detects a signal reaching a predetermined value",
+      "C) the shaker is cancelled if acceleration is above 0,5 G",
+      "D) Both shakers trigger always at the same time"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-4",
+    "test": "Test 4",
+    "number": 4,
+    "category": "Flight controls",
+    "question": "(Flight controls) Concerning the pusher operation:",
+    "options": [
+      "A) the pusher system is automatically available when the aircraft is energised",
+      "B) the pusher triggers if one subsystem detects an incidence exceeding a predetermined value",
+      "C) if the pusher triggers the autopilot is automatically deactivated",
+      "D) the pusher operation is cancelled if acceleration is above 0,5 G"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-5",
+    "test": "Test 4",
+    "number": 5,
+    "category": "De-icing system",
+    "question": "(De-icing system) If there is a windshield heating regulator failure:",
+    "options": [
+      "A) the WINDSHIELD OVER TEMP alarm triggers on the multiple alarm panel",
+      "B) a FAIL alarm triggers on the overhead panel",
+      "C) the associated 100 Amps breaker automatically pulls",
+      "D) answers A and B are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-6",
+    "test": "Test 4",
+    "number": 6,
+    "category": "De-icing system",
+    "question": "(De-icing system) About the windshield heating:",
+    "options": [
+      "A) it is regulated at 45°C",
+      "B) an alarms triggers if the corresponding 100 Amps breaker pulls",
+      "C) an alarms triggers if the temperature > 51°",
+      "D) answers A and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-7",
+    "test": "Test 4",
+    "number": 7,
+    "category": "Fuel system",
+    "question": "(Fuel system) During pre-flight inspection, how many fuel drains can you check?",
+    "options": [
+      "A) 6 (2 on each wing + 2 below the fuselage)",
+      "B) 5 (2 on each wing + 1 below the fuselage)",
+      "C) 7 (3 on each wing + 1 cross-feed drain)",
+      "D) 3 (1 on each wing + 1 cross-feed drain)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-8",
+    "test": "Test 4",
+    "number": 8,
+    "category": "Fuel system",
+    "question": "(Fuel system) On the fuel panel, the totalizer computes:",
+    "options": [
+      "A) only the left engine fuel consumption",
+      "B) the fuel available before reaching the reserve quantity",
+      "C) the total consumption of both engine",
+      "D) the total consumption of both engine if the cross-feed is open"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-9",
+    "test": "Test 4",
+    "number": 9,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) The landing gear alarm:",
+    "options": [
+      "A) triggers if flaps are set > 45% and it is not possible to cut the horn",
+      "B) triggers if one power lever is < 75% and it is possible to cut the horn",
+      "C) triggers if flaps are set > 45% and if landing gear is not down and locked",
+      "D) answers B and C are correct"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-10",
+    "test": "Test 4",
+    "number": 10,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What is the purpose of the main accumulator on the power circuit?",
+    "options": [
+      "A) to store enough hydraulic fluid in case of important flow request",
+      "B) to enable 25 brake applications in case of emergency",
+      "C) to enable 10 brake applications in case of emergency",
+      "D) to enable emergency landing gear extension"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-11",
+    "test": "Test 4",
+    "number": 11,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What are the conditions to energize the solenoid steering valve when the steering handle pushbutton is activated?",
+    "options": [
+      "A) the micro-switch on the main landing gear shock absorbers",
+      "B) the landing gear handle is DOWN and nose gear is down locked",
+      "C) the landing gear handle on DOWN and nose gear wheels in axis",
+      "D) the micro-switch of the main landing gear shock absorbers and the nose gear down locked"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-12",
+    "test": "Test 4",
+    "number": 12,
+    "category": "O2 circuit",
+    "question": "(O2 circuit) The crew O2 masks are equipped with the following positions:",
+    "options": [
+      "A) N (O2 according the altitude) / 100% / EMERGENCY (overpressure of 5hPa) / test by pushing EMERGENCY selector",
+      "B) N (O2 according the altitude) / FULL / EMERGENCY (overpressure of 5hPa) / test by pushing EMERGENCY selector",
+      "C) N (pure O2 at FL100) / 100% / EMERGENCY (overpressure of 5hPa) / test by pushing EMERGENCY selector",
+      "D) N (O2 according the altitude) / 100% / EMERGENCY (overpressure of 5hPa) / test by pulling 100% selector"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-13",
+    "test": "Test 4",
+    "number": 13,
+    "category": "Fire protection",
+    "question": "(Fire protection) Fire extinguishers in the cabin are:",
+    "options": [
+      "A) 1 CO + 1 Halon",
+      "B) 1 Halon + 1 CO2",
+      "C) 2 Halon",
+      "D) 2 CO2"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-14",
+    "test": "Test 4",
+    "number": 14,
+    "category": "Fire protection",
+    "question": "(Fire protection) In case of shedding (EMERGENCY BUS bar):",
+    "options": [
+      "A) the detection circuits are available",
+      "B) the extinguishing circuits are available",
+      "C) the detection and extinguishing circuits are available",
+      "D) None of the circuits are available"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-15",
+    "test": "Test 4",
+    "number": 15,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) When VENT is set on the overhead panel to ventilate the cabin, the air comes from:",
+    "options": [
+      "A) the engine compressors (P3 air)",
+      "B) the air cycle machine",
+      "C) an inlet at the bottom of the vertical fin",
+      "D) the tail cone"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-16",
+    "test": "Test 4",
+    "number": 16,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The air conditioning switch, on the overhead panel:",
+    "options": [
+      "A) must be set to ON to enable pneumatic de-icing",
+      "B) must be set to ON to enable entrance door seal to be inflated",
+      "C) must be set to OFF for a depressurized flight",
+      "D) must be set to ON for a pressurized flight"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-17",
+    "test": "Test 4",
+    "number": 17,
+    "category": "Pressurization",
+    "question": "(Pressurization) When the entrance door is closed, the minimum condition for the entrance door seal to inflate is:",
+    "options": [
+      "A) the engines are running + air conditioning switch VENT + at least one bleed air valve OPEN",
+      "B) one engine is running + the corresponding bleed air valve OPEN",
+      "C) the air conditioning switch is ON + one bleed air valve OPEN",
+      "D) one engine is running + the two bleed air valves OPEN"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-18",
+    "test": "Test 4",
+    "number": 18,
+    "category": "Pressurization",
+    "question": "(Pressurization) The CABIN ALT illuminates on the MAP if the cabin altitude is:",
+    "options": [
+      "A) ≥ 10000 ft",
+      "B) > 10000 ft",
+      "C) = 10000 ft",
+      "D) < 10001 ft"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-19",
+    "test": "Test 4",
+    "number": 19,
+    "category": "Pressurization",
+    "question": "(Pressurization) For a FL150 cruise, you have to select FL160 on the selector; why ?",
+    "options": [
+      "A) to avoid overpressure valve pulsation phenomenon",
+      "B) to avoid cabin overpressure",
+      "C) to maintain delta-P at 6,0 PSI",
+      "D) answers A and C are correct"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-20",
+    "test": "Test 4",
+    "number": 20,
+    "category": "Engine",
+    "question": "(Engine) About the maximum T5, find the exact answers:",
+    "options": [
+      "A) 925° for 2” (start-up) / 1090° for 10” (start-up) / recommended during cruise 695° (below FL100)",
+      "B) 1090° for 2” (start-up) / 925° for 10” (start-up) / recommended during climb 710° (below FL100)",
+      "C) recommended during cruise 710° (below FL100) / 925° for 10” (start-up) / 1090° for 2” (start-up)",
+      "D) 925° for 10” (start-up) / recommended during climb 695° (below FL100) / 1090° for 2” (start-up)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-21",
+    "test": "Test 4",
+    "number": 21,
+    "category": "Engine",
+    "question": "(Engine) What is the PT6A-28 maximum torque?",
+    "options": [
+      "A) 1628 lb.ft maximum in continuous",
+      "B) 1800 lb.ft for 60” maximum",
+      "C) 2100 lb.ft for 2” maximum",
+      "D) 1080 lb.ft in reverse"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-22",
+    "test": "Test 4",
+    "number": 22,
+    "category": "Engine",
+    "question": "(Engine) What is the normal oil pressure of the lubrication circuit?",
+    "options": [
+      "A) between 80 and 100 PSI",
+      "B) between 40 and 80 PSI",
+      "C) between 50 and 100 PSI",
+      "D) between 50 and 80 PSI"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-23",
+    "test": "Test 4",
+    "number": 23,
+    "category": "Engine",
+    "question": "(Engine) The T2 temperature displayed on the MFD:",
+    "options": [
+      "A) is necessary to compute engine performances",
+      "B) is computed from the OAT",
+      "C) is an outside air temperature",
+      "D) is useless because the OAT is directly displayed on the PFD"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-24",
+    "test": "Test 4",
+    "number": 24,
+    "category": "Engine",
+    "question": "(Engine) What is the purpose of the Fuel Control Unit (FCU)?",
+    "options": [
+      "A) the FCU delivers a fuel flow to the engine proportional to the power lever position",
+      "B) the FCU regulates the gas generator rotation speed",
+      "C) the FCU limits the maximum torque during reverse operation",
+      "D) all answers are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-25",
+    "test": "Test 4",
+    "number": 25,
+    "category": "Propeller",
+    "question": "(Propeller) The propeller synchronization system:",
+    "options": [
+      "A) adjusts the LHS propeller speed (slave) from the RHS propeller speed (master)",
+      "B) operates if the rotation speed difference is less than 2,3%",
+      "C) protects the propeller in case of an overspeed",
+      "D) synchronizes the propeller in speed and pitch"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-26",
+    "test": "Test 4",
+    "number": 26,
+    "category": "Propeller",
+    "question": "(Propeller) The purpose of the BETA test is to check:",
+    "options": [
+      "A) that the reverse operates symmetrically",
+      "B) the secondary low pitch stop solenoid valve operation",
+      "C) the primary low pitch stop solenoid valve operation",
+      "D) the BETA light illumination"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-27",
+    "test": "Test 4",
+    "number": 27,
+    "category": "Ext Int lights",
+    "question": "(Ext Int lights) Which equipment is designed with an automatic brightness adjustment?",
+    "options": [
+      "A) PFD1, PFD2, MFD",
+      "B) GNS430W, SL30, GTX-330, PFD1, PFD2, MFD",
+      "C) GNS430W, SL30, GTX-330",
+      "D) Weather Radar, GNS430W"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-28",
+    "test": "Test 4",
+    "number": 28,
+    "category": "Anemometric system",
+    "question": "(Anemometric system) In case of shedding:",
+    "options": [
+      "A) the left pitot and static ports are heated",
+      "B) the right pitot and static ports are heated",
+      "C) the right static upper port and the left static lower port are heated",
+      "D) the right static lower port and the left static upper port are heated"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-29",
+    "test": "Test 4",
+    "number": 29,
+    "category": "Malfunction and Alarm system",
+    "question": "(Malfunction and Alarm system) When there is an ENG FIRE, you can see:",
+    "options": [
+      "A) the FIRE warning on the multiple alarm panel (MAP) + the sound",
+      "B) the FIRE warning on the multiple alarm panel (MAP) + the corresponding FIRE light on the fire panel",
+      "C) the sound + the corresponding FIRE light on the fire panel",
+      "D) the corresponding FIRE light on the fire panel + the FIRE warning on the multiple alarm panel (MAP)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-30",
+    "test": "Test 4",
+    "number": 30,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) In case of both generators failure, the battery autonomy will be approximately:",
+    "options": [
+      "A) 20 minutes if the EMERGENCY BUS BAR switch is set on NORMAL",
+      "B) 60 minutes in VMC, 20 in IMC (with all de-icing ON)",
+      "C) 20 minutes if the EMERGENCY BUS BAR switch is set on EMERG",
+      "D) it is unknown"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-31",
+    "test": "Test 4",
+    "number": 31,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) If the INVERTER 2 alarm illuminates on the MAP, it means that:",
+    "options": [
+      "A) inverter 2 26V-AC has failed",
+      "B) inverter 2 115V-AC has failed",
+      "C) inverter 2 is no more connected to the AC bus bars",
+      "D) inverter 2 switch is set to OFF"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test4-32",
+    "test": "Test 4",
+    "number": 32,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) In case of total electrical failure (battery depleted), which one of the following equipment remains supplied?",
+    "options": [
+      "A) the emergency horizon",
+      "B) the GPS (GNS-430)",
+      "C) the VHF 1",
+      "D) the PFD 1"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-33",
+    "test": "Test 4",
+    "number": 33,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) When FD SBY in yellow (on black background) is displayed on the PFD, it means that:",
+    "options": [
+      "A) the FD is unserviceable",
+      "B) the FD is not coupled",
+      "C) the TCS pushbutton is activated by the pilot",
+      "D) the flight director is supplied"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-34",
+    "test": "Test 4",
+    "number": 34,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) For optimal track/course capture (V/L), the interception heading should be lower than:",
+    "options": [
+      "A) 45° and distance > 6 NM",
+      "B) 45° and distance < 6 NM",
+      "C) 22° and distance > 6 NM",
+      "D) 27° (if LOC course) and distance > 6 NM"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-35",
+    "test": "Test 4",
+    "number": 35,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) By selecting the AHRS/ADC switch on #2 :",
+    "options": [
+      "A) the FD is unserviceable",
+      "B) the AP is disengaged",
+      "C) the PFD1 switches on Composite-Mode#2",
+      "D) answers A & B are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-36",
+    "test": "Test 4",
+    "number": 36,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) When MISCOMP triggers on the PFD, it means:",
+    "options": [
+      "A) the difference between 2 parameters is above the specified threshold",
+      "B) the COMP function has failed",
+      "C) the barometric setting #1 may be different from the barometric setting #2",
+      "D) answers A) and C) are correct"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test4-37",
+    "test": "Test 4",
+    "number": 37,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What is the purpose of the AHCP?",
+    "options": [
+      "A) It is used to select the normal alignment sequence",
+      "B) The AHCP provides the GPS track to the AHRS (back-up function only)",
+      "C) This panel enables additional functions of the AHRS in case of malfunction",
+      "D) The AHCP enables to select a different source for ATTITUDE and HEADING"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test4-38",
+    "test": "Test 4",
+    "number": 38,
+    "category": "Navigation equipment",
+    "question": "(Navigation equipment) About the Radio altimeter:",
+    "options": [
+      "A) -DH- advisory triggers (on EADI) when RA > DH setting",
+      "B) Test button displays 10 ft (FAF) and 720 ft (Navy)",
+      "C) Radio altimeter info is not displayed if H > 1200 ft",
+      "D) Radio altimeter info is not displayed if aircraft on ground"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-39",
+    "test": "Test 4",
+    "number": 39,
+    "category": "ELT",
+    "question": "(ELT) The characteristics of the emergency locator transmitter are:",
+    "options": [
+      "A) 406 MHz / 121.5 MHz / 6G-switch crash sensor",
+      "B) one antenna / 243 Mhz / remote controller",
+      "C) 121,5 Mhz / 403 MHz / 246 MHz, 6G-switch crash sensor / remote controller",
+      "D) A and B are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test4-40",
+    "test": "Test 4",
+    "number": 40,
+    "category": "Communication equipment",
+    "question": "(Communication equipment) What is the VHF 3 frequency range?",
+    "options": [
+      "A) 136.000 - 136.975 MHz",
+      "B) 118.000 - 151.975 Mhz",
+      "C) 118.000 - 136.975 MHz",
+      "D) 118.000 - 141.975 MHz"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-1",
+    "test": "Test 5",
+    "number": 1,
+    "category": "Presentation",
+    "question": "(Presentation) We can find all the description of the aircraft and its system in the:",
+    "options": [
+      "A) UCE 120",
+      "B) Operating manual",
+      "C) Normal and Emergency C/L",
+      "D ) FAR PART 23"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-2",
+    "test": "Test 5",
+    "number": 2,
+    "category": "Airframe",
+    "question": "(Airframe) The emergency exit:",
+    "options": [
+      "A) can't be open from outside",
+      "B) is equipped with a light for night flight operation",
+      "C) is located on the right side of the passenger cabin",
+      "D) answer B) and C) are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-3",
+    "test": "Test 5",
+    "number": 3,
+    "category": "Flight controls",
+    "question": "(Flight controls) On ground, why the elevator -at the top of the empennage- is always on down position?",
+    "options": [
+      "A) because of the weight of the elevator",
+      "B) to avoid water accumulation in the control surface",
+      "C) because two springs bring back the control column in a full forward position",
+      "D) it is just a random position"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-4",
+    "test": "Test 5",
+    "number": 4,
+    "category": "Flight controls",
+    "question": "(Flight controls) Concerning the pitch trim:",
+    "options": [
+      "A) the crew can trim both manually and electrically",
+      "B) the electrical trim only operates when the autopilot is engaged",
+      "C) the right electrical trim (instructor seat) has priority to the left one",
+      "D) the aircraft is automatically trimmed on pitch axis"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-5",
+    "test": "Test 5",
+    "number": 5,
+    "category": "De-icing system",
+    "question": "(De-icing system) Concerning the propeller de-icing system:",
+    "options": [
+      "A) the temperature in the de-icers is regulated between 32° and 48°",
+      "B) there are three resistance packs inside each blade",
+      "C) the system cannot be activated on ground",
+      "D) the electric consumption must be between 14 and 18 Amps"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-6",
+    "test": "Test 5",
+    "number": 6,
+    "category": "De-icing system",
+    "question": "(De-icing system) Concerning the propeller de-icing cycle, each group of de-icers is heated:",
+    "options": [
+      "A) for 6 sec, the total cycle is 54 sec",
+      "B) for 54 sec, the total cycle is 1 min 48 sec",
+      "C) for 34 sec, the total cycle is 2 min 54 sec",
+      "D) for 34 sec, the total cycle is 2 min 16 sec"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-7",
+    "test": "Test 5",
+    "number": 7,
+    "category": "Fuel system",
+    "question": "(Fuel system) Concerning the fuel boost pumps:",
+    "options": [
+      "A) the auxiliary pumps must be set on ON during all flight",
+      "B) the main pumps must be set on AUTO during all flight",
+      "C) the associated green light indicates that the fuel pressure is correct",
+      "D) they deliver a minimum fuel pressure of 12 PSI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-8",
+    "test": "Test 5",
+    "number": 8,
+    "category": "Fuel system",
+    "question": "(Fuel system) What happens if a FUEL PRESS warning triggers:",
+    "options": [
+      "A) the auxiliary pump is automatically energised and gives the full pressure",
+      "B) the crew must use the cross-feed if there is a failure of both pumps (same engine)",
+      "C) the auxiliary pump is unavailable",
+      "D) the opposite auxiliary pump must be set ON"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-9",
+    "test": "Test 5",
+    "number": 9,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What is the purpose of the green pushbutton on the steering handle?",
+    "options": [
+      "A) it energises/de-energises the steering solenoid valve",
+      "B) it enables the steering mechanism for taxi operation",
+      "C) it enables to route the hydraulic pressure to the steering actuator",
+      "D) it supplies the centering actuator with hydraulic pressure for taxi operation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-10",
+    "test": "Test 5",
+    "number": 10,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) During the standard aircraft pre-flight inspection, you must check that:",
+    "options": [
+      "A) the pressure of the tyre is correct",
+      "B) the engine oil level is correct",
+      "C) the fluid level in the hydraulic tank is correct",
+      "D) the coupling pin of the nose wheel is properly set"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-11",
+    "test": "Test 5",
+    "number": 11,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What are the 4 main components of the hydraulic system?",
+    "options": [
+      "A) power system, landing gear, brakes, flaps",
+      "B) brakes, flight controls, landing gear, steering",
+      "C) landing gear, power system, brakes, steering",
+      "D) brakes, power system, flaps, steering"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-12",
+    "test": "Test 5",
+    "number": 12,
+    "category": "O2 circuit",
+    "question": "(O2 circuit) To speak through the O2 mask, the pilot must select:",
+    "options": [
+      "A) “C” on its radio control box",
+      "B) “C” on its radio control box + NORMAL on his mask",
+      "C) “M” on its radio control box",
+      "D) “M” on its radio control box + NORMAL on his mask"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-13",
+    "test": "Test 5",
+    "number": 13,
+    "category": "Fire protection",
+    "question": "(Fire protection) During preflight inspection, if the red indicator misses on the engine nacelle, it means that:",
+    "options": [
+      "A) the cartridge has been triggered",
+      "B) the extinguisher has been sprayed in the rear part of the engine",
+      "C) the extinguisher has been discharged due to an overpressure",
+      "D) the extinguisher has been discharged through the extinguishing tube"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-14",
+    "test": "Test 5",
+    "number": 14,
+    "category": "Fire protection",
+    "question": "(Fire protection) On the fire panel, when the crew operates the shut-off switch:",
+    "options": [
+      "A) it closes the fuel, air conditioning shut-off valve, hydraulic",
+      "B) the red lights appear only during the motion of the fuel and hydraulic shut-off valves",
+      "C) it closes the fuel, hydraulic, bleed air and electric circuit",
+      "D) answers B and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-15",
+    "test": "Test 5",
+    "number": 15,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The temperature is controlled via:",
+    "options": [
+      "A) an automatic mode if the air conditioning switch is ON",
+      "B) the increase-decrease switch",
+      "C) the ventilation switch (VENT)",
+      "D) a manual mode if the air conditioning switch is VENT"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-16",
+    "test": "Test 5",
+    "number": 16,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) If DUCT TEMP illuminates only on the overhead panel, it means that:",
+    "options": [
+      "A) the temperature regulation is on MAN selection",
+      "B) the crew must select COOL on the WARM/COOL spring-loaded switch",
+      "C) the overheat is detected at 79,5°C",
+      "D) answers A and B are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-17",
+    "test": "Test 5",
+    "number": 17,
+    "category": "Pressurization",
+    "question": "(Pressurization) What is the purpose of the heated static port on the right hand side of the tail cone?",
+    "options": [
+      "A) It is the emergency static port (for stand-by instruments)",
+      "B) It enables the proper operation of one of the overpressure valve",
+      "C) It supplies the delta-P indicator on the pressurization panel",
+      "D) It is used by the FDR to record the static pressure (Ps)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-18",
+    "test": "Test 5",
+    "number": 18,
+    "category": "Pressurization",
+    "question": "(Pressurization) A cabin altitude > 10.000 ft can be caused by:",
+    "options": [
+      "A) a controller malfunction",
+      "B) an outflow valve failure",
+      "C) an entrance door seal leak",
+      "D) all answers are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-19",
+    "test": "Test 5",
+    "number": 19,
+    "category": "Pressurization",
+    "question": "(Pressurization) Before landing, why do you have to select airfield altitude + 150-300 ft?",
+    "options": [
+      "A) to avoid a sudden depressurization on touchdown",
+      "B) to avoid overpressure valve pulsation",
+      "C) to depressurize the aircraft before landing",
+      "D) A and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-20",
+    "test": "Test 5",
+    "number": 20,
+    "category": "Engine",
+    "question": "(Engine) The STARTING FUEL CONTROL (SFC) is used:",
+    "options": [
+      "A) to meter the fuel before the combustion chamber",
+      "B) to drain fuel from the combustion chamber",
+      "C) for engine start-up and engine shut down",
+      "D) to supply the FCU with a minimum fuel pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-21",
+    "test": "Test 5",
+    "number": 21,
+    "category": "Engine",
+    "question": "(Engine) After the SFC, the metered fuel is delivered to the combustion chamber:",
+    "options": [
+      "A) by two duplex nozzles",
+      "B) by two manifolds",
+      "C) by the FCU",
+      "D) at a maximum pressure of 35 PSI"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-22",
+    "test": "Test 5",
+    "number": 22,
+    "category": "Engine",
+    "question": "(Engine) IN FLIGHT IGNITION can be used:",
+    "options": [
+      "A) during heavy rain",
+      "B) for restart in flight",
+      "C) for immediate restart",
+      "D) all answers are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-23",
+    "test": "Test 5",
+    "number": 23,
+    "category": "Engine",
+    "question": "(Engine) During starting sequence, if the crew set the starting switch on INTERRUPTION:",
+    "options": [
+      "A) the starter-generator will be de-energized",
+      "B) the SFC will automatically stop the fuel supply",
+      "C) the shut-off valve closes",
+      "D) the fuel boost pumps are inhibited"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-24",
+    "test": "Test 5",
+    "number": 24,
+    "category": "Engine",
+    "question": "(Engine) On the ignition and start panel, the DRY MOTORING can be used:",
+    "options": [
+      "A) for immediate restart",
+      "B) for engine ventilation",
+      "C) for restart in flight",
+      "D) all answers are correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-25",
+    "test": "Test 5",
+    "number": 25,
+    "category": "Propeller",
+    "question": "(Propeller) The purpose of the overspeed test (engine run-up) is to check:",
+    "options": [
+      "A) that the left and right propeller governors operate symmetrically",
+      "B) the engine overtorque",
+      "C) the Nh overspeed valve operation",
+      "D) the NG overspeed protection"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-26",
+    "test": "Test 5",
+    "number": 26,
+    "category": "Propeller",
+    "question": "(Propeller) The autofeathering circuit enables:",
+    "options": [
+      "A) an automatic feathering in case of a propeller failure",
+      "B) an automatic feathering in case of an engine failure",
+      "C) an automatic feathering if the torque is below 370 lb.ft",
+      "D) an automatic feathering if the torque is higher than 200 lb.ft"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-27",
+    "test": "Test 5",
+    "number": 27,
+    "category": "Ext Int lights",
+    "question": "(Ext Int lights) which lights are directly connected to the battery bus bar?",
+    "options": [
+      "A) the entrance door light and the emergency exit door light",
+      "B) the emergency exit door light and the passengers’ signs",
+      "C) the passengers’ signs and the entrance door light",
+      "D) none of the answers is correct"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-28",
+    "test": "Test 5",
+    "number": 28,
+    "category": "Anemometric system",
+    "question": "(Anemometric system) The remote static port is used for:",
+    "options": [
+      "A) the emergency Pitot/Static system",
+      "B) for one of the outflow valves",
+      "C) for one of the overpressure valves",
+      "D) the Flight Data Recorder"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-29",
+    "test": "Test 5",
+    "number": 29,
+    "category": "Malfunction and Alarm system",
+    "question": "(Malfunction and Alarm system) About Malfunction & Alarm system, there are:",
+    "options": [
+      "A) 14 red WARNING lights + 16 amber CAUTION lights",
+      "B) 14 red CAUTION lights + 16 amber WARNING lights",
+      "C) 16 red WARNING lights + 14 amber CAUTION lights",
+      "D) 16 red CAUTION lights + 14 amber WARNING lights"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-30",
+    "test": "Test 5",
+    "number": 30,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) The GENE TEMP alarm triggers at:",
+    "options": [
+      "A) 150°C",
+      "B) 150°F",
+      "C) 165°C",
+      "D) 165°F"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-31",
+    "test": "Test 5",
+    "number": 31,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) What are the generators characteristics?",
+    "options": [
+      "A) 300 Amps, 28 VDC",
+      "B) 375 Amps, 28 VDC",
+      "C) 600 VA, 28 VDC",
+      "D) 125 VA, 28 VDC"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-32",
+    "test": "Test 5",
+    "number": 32,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) If the INVERTER 1 alarm illuminates on the MAP, it means that:",
+    "options": [
+      "A) inverter 1 switch is set to OFF",
+      "B) inverter 1 is no more connected to the AC bus bars",
+      "C) inverter 1 115V-AC has failed",
+      "D) inverter 1 26V-AC has failed"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-33",
+    "test": "Test 5",
+    "number": 33,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) When pressing GO AROUND mode with the autopilot engaged:",
+    "options": [
+      "A) the autopilot remains engaged in basic mode",
+      "B) the autopilot is uncoupled",
+      "C) the flight director displays a +7° pitch order",
+      "D) all answers are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-34",
+    "test": "Test 5",
+    "number": 34,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) In basic mode, the turn knob of the manual controller enables:",
+    "options": [
+      "A) a maximum bank angle of 32°",
+      "B) a maximum bank angle of 27°",
+      "C) a maximum bank angle of 37°",
+      "D) a rate one turn"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test5-35",
+    "test": "Test 5",
+    "number": 35,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What does NIU mean?",
+    "options": [
+      "A) Non-Integrated Units (for non-integrated equipment)",
+      "B) Navigation Instrument Unavailable (failure of an instrument)",
+      "C) Navigation Interface Unit",
+      "D) NIU 1 = PFD 1 (and NIU 2 = PFD 2)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-36",
+    "test": "Test 5",
+    "number": 36,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What is the purpose of the DG switch on the AHCP?",
+    "options": [
+      "A) it enables the Differential Gyro function (DG)",
+      "B) it is used only to test the AP (Disconnection General)",
+      "C) in case of FDU failure, it will enable the Directional Gyro function (DG)",
+      "D) this switch is use for Dimming General function (DG)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test5-37",
+    "test": "Test 5",
+    "number": 37,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) If SAMESIDE triggers on the PFD 1, the pilot must:",
+    "options": [
+      "A) perform the SAMESIDE checklist (CAUTION/Avionics checklist)",
+      "B) press the MSG key of the GNS-430",
+      "C) divert to the nearest airfield",
+      "D) check that the correct procedure has been applied"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-38",
+    "test": "Test 5",
+    "number": 38,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) The outside air temperature displayed on the PFD:",
+    "options": [
+      "A) is a total temperature (correction +4° in climb / +7° in cruise)",
+      "B) is used to manage the anti-icing / de-icing system",
+      "C) is calculated thanks to the T2 probe located inside the engine air inlet",
+      "D) is computed by the ADC thanks to a probe below the wing"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test5-39",
+    "test": "Test 5",
+    "number": 39,
+    "category": "Flight Data Recorder",
+    "question": "(Flight Data Recorder) You are checking the settings of the FDR. In which order the data will be displayed?",
+    "options": [
+      "A) Zulu time, year-month, day",
+      "B) Zulu time, month-day, year",
+      "C) Zulu time, day-month, year",
+      "D) Zulu time, day-year, month"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test5-40",
+    "test": "Test 5",
+    "number": 40,
+    "category": "Communication equipment",
+    "question": "(Communication equipment) You can select increments of 8.33 Khz on:",
+    "options": [
+      "A) VHF1 and VHF2",
+      "B) VHF1 and VHF3",
+      "C) VHF2 and VHF3",
+      "D) only VHF3"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-1",
+    "test": "Test 6",
+    "number": 1,
+    "category": "Presentation",
+    "question": "(Presentation) About the E121 Xingu, we can say:",
+    "options": [
+      "A) complex & high-performance aircraft / single pilot",
+      "B) complex & high-performance aircraft / FAR23 certification",
+      "C) complex & non high-performance aircraft / FAR23 certification",
+      "D) complex & non high-performance aircraft / multicrew"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-2",
+    "test": "Test 6",
+    "number": 2,
+    "category": "Airframe",
+    "question": "(Airframe) The DOOR warning triggers on the multiple alarm panel if:",
+    "options": [
+      "A) the entrance door is not locked",
+      "B) one of the 4 nose-cone doors is unlocked",
+      "C) the 3-way valve on the entrance door is not in the correct position",
+      "D) answer A) and B) are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-3",
+    "test": "Test 6",
+    "number": 3,
+    "category": "Flight controls",
+    "question": "(Flight controls) The flaps of the Xingu:",
+    "options": [
+      "A) Fowlers type, driven by an electric motor + teleflex cables, with a hydraulic asymmetric detection circuit",
+      "B) Driven by an electric motor + teleflex cables + actuators, with asymmetric detection circuit",
+      "C) Fowlers type, driven by an electric motor + teleflex cables + actuators, with an emergency circuit",
+      "D) Driven by a hydraulic motor + teleflex cables + actuators, Fowlers type, with asymmetric detection circuit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-4",
+    "test": "Test 6",
+    "number": 4,
+    "category": "Flight controls",
+    "question": "(Flight controls) About the maximum deflection of the flaps and the 3 notches of the flaps lever:",
+    "options": [
+      "A) max deflection 38% / 3 notches at 0%, 75% and 100%",
+      "B) max deflection 38° / 3 notches at 0°, 35° and 100°",
+      "C) max deflection 100% / 3 notches at 0°, 35° and 100°",
+      "D) max deflection 38° / 3 notches at 0%, 35% and 100%"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-5",
+    "test": "Test 6",
+    "number": 5,
+    "category": "De-icing system",
+    "question": "(De-icing system) The PITOT/STAT HEATING illuminates on the multiple alarm panel in case of:",
+    "options": [
+      "A) PITOT #1 or STATIC #1 failure",
+      "B) PITOT #2 or STALL #2 failure",
+      "C) PITOT #2 and STATIC #1 failure",
+      "D) answers A and B are correct"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-6",
+    "test": "Test 6",
+    "number": 6,
+    "category": "De-icing system",
+    "question": "(De-icing system) What is the maximum IAS for windshield wipers operation?",
+    "options": [
+      "A) 149 Kts",
+      "B) 179 kts",
+      "C) 150 Kts",
+      "D) 159 Kts"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-7",
+    "test": "Test 6",
+    "number": 7,
+    "category": "Fuel system",
+    "question": "(Fuel system) The FUEL FILTER warning triggers when:",
+    "options": [
+      "A) there is surely a clogging",
+      "B) the pressure drops below 12 PSI",
+      "C) no specific action is required by the crew",
+      "D) the crew must shut-down the engine"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-8",
+    "test": "Test 6",
+    "number": 8,
+    "category": "Fuel system",
+    "question": "(Fuel system) There is 1000 lbs in the right tank and 1500 lbs in the left tank, to balance the wings the crew must set:",
+    "options": [
+      "A) the cross-feed switch on ON then set the right main pump on OFF",
+      "B) the cross-feed switch on ON then set the left main pump on OFF",
+      "C) the left main pump on OFF then set the cross-feed switch on ON",
+      "D) the right main pump on OFF then set the cross-feed switch on ON"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-9",
+    "test": "Test 6",
+    "number": 9,
+    "category": "Hydraulic circuit",
+    "question": "(Hydraulic circuit) What are the wheel steering system characteristics?",
+    "options": [
+      "A) turn 40° left and right, anti-skid system, anti-shimmy function, hydraulic + electric operation",
+      "B) turn 40 % left and right, centering function, anti-shimmy function, hydraulic + electric operation",
+      "C) turn 40° left and right, centering function, anti-shimmy function, hydraulic + electric operation",
+      "D) turn 40° left and right, anti-skid system, anti-shimmy function, mechanic + electric operation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-10",
+    "test": "Test 6",
+    "number": 10,
+    "category": "Hydraulic system",
+    "question": "(Hydraulic system) Concerning the hydraulic pumps:",
+    "options": [
+      "A) lubricated by the hydraulic fluid, self-governed, energised through the 28 VDC essential Bar",
+      "B) mechanically linked to the engine, lubricated by the hydraulic fluid, self-governed",
+      "C) self-governed, energised through the emergency bar, lubricated by the hydraulic fluid",
+      "D) self-governed, mechanically linked to the engine, lubricated by the oil circuit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-11",
+    "test": "Test 6",
+    "number": 11,
+    "category": "Hydraulic system",
+    "question": "(Hydraulic system) The crew can check the hydraulic quantity thanks to:",
+    "options": [
+      "A) a visual indicator located in the nose cone",
+      "B) the dual indicator on the hydraulic panel",
+      "C) the manual gauge inside the tail cone",
+      "D) the visual indicators located on the hydraulic tank"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-12",
+    "test": "Test 6",
+    "number": 12,
+    "category": "O2 circuit",
+    "question": "(O2 circuit) About the passenger O2 circuit:",
+    "options": [
+      "A) the pressure is automatically available when a passenger takes his mask",
+      "b) the passenger must takes his mask and release the locking pin",
+      "C) the passenger O2 circuit is activated by the passenger control valve",
+      "D) the passenger O2 circuit is always supplied by the O2 cylinder at 70 PSI"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-13",
+    "test": "Test 6",
+    "number": 13,
+    "category": "Fire protection",
+    "question": "(Fire protection) The detection circuit is supplied by:",
+    "options": [
+      "A) the essential bus bar",
+      "B) the 28 V DC emergency bus bar",
+      "C) directly the battery",
+      "D) None of the answers is correct"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-14",
+    "test": "Test 6",
+    "number": 14,
+    "category": "Fire protection",
+    "question": "(Fire protection) On the fire panel, the red lights are not illuminated, meaning that the corresponding valves are:",
+    "options": [
+      "A) closed",
+      "B) opened",
+      "C) closed or opened, we can not know",
+      "D) closed or opened according the position the shut-off valve switches"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-15",
+    "test": "Test 6",
+    "number": 15,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The air conditioning system is fully efficient:",
+    "options": [
+      "A) when both engine bleed air are OPEN",
+      "B) only when NG > 90%",
+      "C) if NG > 65%",
+      "D) on ground thanks to the by-pass valve"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-16",
+    "test": "Test 6",
+    "number": 16,
+    "category": "Air conditioning",
+    "question": "(Air conditioning) The temperature can be regulated between:",
+    "options": [
+      "A) 15° and 32° in automatic mode",
+      "B) 15° and 32° in manual mode",
+      "C) 2,8° and 88° in automatic mode",
+      "D) 2,8° and 88° in manual mode"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-17",
+    "test": "Test 6",
+    "number": 17,
+    "category": "Pressurization",
+    "question": "(Pressurization) Your flight from LFOA to LFOA (580’) is scheduled at Z 5000’; what are the pressurization panel settings at departure (for T/O)?",
+    "options": [
+      "A) AUTO / 1013 / 580’",
+      "B) AUTO / QNH / FL 50",
+      "C) AUTO / QNH / 580’",
+      "D) AUTO / QFE / 580’"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-18",
+    "test": "Test 6",
+    "number": 18,
+    "category": "Pressurization",
+    "question": "(Pressurization) Your flight from LFOA to LFBL (1300’) is scheduled at FL70; what are the pressurization panel settings at arrival (for landing)?",
+    "options": [
+      "A) AUTO / 1013 / 1500’",
+      "B) AUTO / QNH / 1500’",
+      "C) AUTO / QNH / FL 70",
+      "D) AUTO / QNH / 2300’"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-19",
+    "test": "Test 6",
+    "number": 19,
+    "category": "Pressurization",
+    "question": "(Pressurization) About the “INCREASE/DECREASE” springloaded switch:",
+    "options": [
+      "A) it has a direct action on the solenoid valves except if MAN is selected",
+      "B) it has no action if AUTO is selected",
+      "C) it overrides the pressurization controller",
+      "D) on INCREASE: increases the cabin pressure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-20",
+    "test": "Test 6",
+    "number": 20,
+    "category": "Engine",
+    "question": "(Engine) The engine fuel circuit is composed of (non exhaustive list):",
+    "options": [
+      "A) Oil-to Fuel heater / HP fuel pump / Fuel Control Unit / Starting Fuel Control / 4 manifolds / 10 nozzles",
+      "B) Fuel Control Unit / Oil cooler / 10 primary nozzles + 4 secondary nozzles / 2 boost pumps",
+      "C) Starting Fuel Control / HP fuel pump / 2 manifolds / 14 nozzles / Oil-to Fuel heater",
+      "D) 10 primary nozzles + 4 secondary nozzles / Oil-to Fuel heater / HP fuel pump / Constant Speed Unit / 2 manifolds"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-21",
+    "test": "Test 6",
+    "number": 21,
+    "category": "Engine",
+    "question": "(Engine) At the end of the starting sequence, NG must stabilize at:",
+    "options": [
+      "A) approx. 65% before setting HIGH IDLE",
+      "B) approx. 40% before setting HIGH IDLE",
+      "C) approx. 50% after setting HIGH IDLE",
+      "D) approx. 50% before setting HIGH IDLE"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-22",
+    "test": "Test 6",
+    "number": 22,
+    "category": "Engine",
+    "question": "(Engine) During hot weather, which particular procedure the crew has to set:",
+    "options": [
+      "A) the inertial separation ON",
+      "B) a NG of 70%-75% on the engine before starting the second one",
+      "C) DRY MOTORING in order to avoid a high T5",
+      "D) LOW IDLE only when NG reaches approx. 25%"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-23",
+    "test": "Test 6",
+    "number": 23,
+    "category": "Engine",
+    "question": "(Engine) After the third missed starting sequence (on the same engine) the crew has to wait:",
+    "options": [
+      "A) 30 min if the starter had operated during 30 sec max.",
+      "B) 30 min if the starter had operated during 60 sec max.",
+      "C) 3 min if the GPU has been used",
+      "D) less than 100 Amps (read on corresponding generator ampmeter) for the battery to be reloaded"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-24",
+    "test": "Test 6",
+    "number": 24,
+    "category": "Engine",
+    "question": "(Engine) About the power levers and the associated switches:",
+    "options": [
+      "A) LDG alarm: 75% NG / autofeather: 90% NG / 2nd low pitch stop cancellation: 50% NG",
+      "B) autofeather: 90% NG / by-pass valve: 75% NG / 2nd low pitch stop cancellation: 50% NG",
+      "C) by-pass valve: 90% NG / autofeather: 90% NG / LDG alarm: 75% NG",
+      "D) 2nd low pitch stop cancellation: 75% NG / by-pass valve: 90% NG / LDG alarm: 75% NG"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-25",
+    "test": "Test 6",
+    "number": 25,
+    "category": "Propeller",
+    "question": "(Propeller) During autofeather test, the HIGH TORQUE switch is checked when:",
+    "options": [
+      "A) the power lever is retarded below 370 lb.ft",
+      "B) the propeller lever is retarded below 370 lb.ft",
+      "C) the power lever is retarded below 200 lb.ft",
+      "D) the propeller lever is retarded below 200 lb.ft"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-26",
+    "test": "Test 6",
+    "number": 26,
+    "category": "Propeller",
+    "question": "(Propeller) The characteristics of the propeller are:",
+    "options": [
+      "A) variable pitch, reverse capability, variable speed, feathering capability, 3 blades, propeller heating",
+      "B) constant speed, propeller heating , feathering capability, reverse capability, 3 blades, variable pitch",
+      "C) feathering capability, constant speed, propeller heating , constant pitch, reverse capability, 3 blades",
+      "D) propeller heating, constant pitch, feathering capability, variable speed, reverse capability, 3 blades"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-27",
+    "test": "Test 6",
+    "number": 27,
+    "category": "Ext Int lights",
+    "question": "(Ext Int lights) What are the characteristics of the taxi lights?",
+    "options": [
+      "A) Long range & short range",
+      "B) Long range & wide range",
+      "C) Short range & wide range",
+      "D) Wide range & short range"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-28",
+    "test": "Test 6",
+    "number": 28,
+    "category": "Anemometric system",
+    "question": "(Anemometric system) One of the following systems is not connected to the anemometric circuit:",
+    "options": [
+      "A) ADC 1",
+      "B) Flight Data Recorder",
+      "C) Stand-by instruments",
+      "D) Overpressure valve"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-29",
+    "test": "Test 6",
+    "number": 29,
+    "category": "Malfunction and Alarm system",
+    "question": "(Malfunction and Alarm system) About Malfunction & Alarm system, there are:",
+    "options": [
+      "A) the horn sounds systematically with an warning (or caution) alarm on the MAP",
+      "B) the MAP displays the FIRE alarm",
+      "C) the horn sounds with the FIRE alarm",
+      "D) A and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-30",
+    "test": "Test 6",
+    "number": 30,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) If the 26 VAC alarm illuminates on the MAP, it means that:",
+    "options": [
+      "A) inverter 2 26V-AC has failed",
+      "B) inverter 1 26V-AC has failed",
+      "C) the AC bus bars are no longer supplied",
+      "D) the 26 VAC emergency bus bar is no longer supplied"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-31",
+    "test": "Test 6",
+    "number": 31,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) What is the purpose of the red fluorescent strip on circuit breakers?",
+    "options": [
+      "A) to identify which equipment are connected to the emergency bus bars",
+      "B) to identify the circuit breakers above 10 Amps",
+      "C) to identify which equipment are connected to the normal bus bars",
+      "D) These are circuit breakers related to the retrofit (Sagem ICDS)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-32",
+    "test": "Test 6",
+    "number": 32,
+    "category": "Electric circuit",
+    "question": "(Electric circuit) What happens if a circuit breaker below 10 Amps triggers?",
+    "options": [
+      "A) nothing, these are circuit breakers for non-essential equipment",
+      "B) the CIRCUIT BREAKER alarm illuminates on the MAP",
+      "C) the CAUTION light (amber) illuminates on the master caution system",
+      "D) answers B and C are correct"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-33",
+    "test": "Test 6",
+    "number": 33,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) In basic mode, the pitch wheel of the manual controller enables:",
+    "options": [
+      "A) a maximum pitch of 7°",
+      "B) a maximum pitch up of 20°",
+      "C) a maximum pitch down of 6°",
+      "D) a minimum pitch of 0°"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-34",
+    "test": "Test 6",
+    "number": 34,
+    "category": "Flight Director & Autopilot",
+    "question": "(Flight Director & Autopilot) In basic mode, when the TCS pushbutton is released:",
+    "options": [
+      "A) the autopilot will disconnect momentarily",
+      "B) only the yaw damper will disconnect",
+      "C) the heading, pitch and roll values will be updated and maintained",
+      "D) the autopilot will become coupled to the flight director"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Test6-35",
+    "test": "Test 6",
+    "number": 35,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) How do you select the composite mode on PFD?",
+    "options": [
+      "A) it is automatic when MFD is OFF",
+      "B) by switching PFD on automatic",
+      "C) by switching MFD on composite and turn off at least one PFD",
+      "D) it is automatic when PFD is OFF"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-36",
+    "test": "Test 6",
+    "number": 36,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) on the MFD, TOPS provides a vertical profile:",
+    "options": [
+      "A) 300 NM ahead of the a/c",
+      "B) 50 NM ahead of the a/c",
+      "C) 3 NM ahead of the a/c",
+      "D) 34 NM ahead of the a/c"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-37",
+    "test": "Test 6",
+    "number": 37,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) What is the orientation of the moving map?",
+    "options": [
+      "A) track up on ground and north up in flight",
+      "B) always track up",
+      "C) always north up",
+      "D) track up in flight and north up on ground"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Test6-38",
+    "test": "Test 6",
+    "number": 38,
+    "category": "EFIS, PFD & MFD",
+    "question": "(EFIS, PFD & MFD) How does the system compute the wind velocity and direction?",
+    "options": [
+      "A) it is the difference between vectors TRK/GS and HDG/TAS",
+      "B) the system downloads all the winds charts for the day",
+      "C) thanks to ADS-B",
+      "D) the information is received from the wind vane below the nose cone"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Test6-39",
+    "test": "Test 6",
+    "number": 39,
+    "category": "Flight Data Recorder",
+    "question": "(Flight Data Recorder) What are the flight characteristics of the flight recorder?",
+    "options": [
+      "A) records the last 16 hours / starts at IAS > 16 Kt / 43 parameters recorded",
+      "B) records the last 16 hours / starts at IAS > 40 Kt / 43 parameters recorded",
+      "C) records the last 24 hours / starts at IAS > 40 Kt / 43 parameters recorded",
+      "D) records the last 16 hours / starts at IAS > 40 kt / 40 parameters recorded"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Test6-40",
+    "test": "Test 6",
+    "number": 40,
+    "category": "Communication equipment",
+    "question": "(Communication equipment) When the N/S switch is set to “S”, that means:",
+    "options": [
+      "A) you can only transmit your communication settings",
+      "B) you can only receive your communication settings",
+      "C) you can only receive the opposite communication settings",
+      "D) you can only transmit the opposite communication settings"
+    ],
+    "answer": 2
+  }
+]
