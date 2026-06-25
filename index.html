@@ -16,6 +16,13 @@
     <section id="home" class="card">
       <h2>Lancer un test</h2>
 
+      <div class="stats-box">
+        <h3>Mes résultats</h3>
+        <p id="statsSummary">Aucun résultat enregistré pour l’instant.</p>
+        <div id="historyList"></div>
+        <button id="clearHistoryBtn" class="danger small-btn hidden">Effacer l’historique</button>
+      </div>
+
       <label for="testFilter">Test</label>
       <select id="testFilter">
         <option value="all">Tous les tests</option>
@@ -36,6 +43,7 @@
       </select>
 
       <button id="startBtn">Lancer le test</button>
+      <button id="retryLastMistakesHomeBtn" class="secondary hidden">Refaire mes erreurs du dernier test</button>
     </section>
 
     <section id="quiz" class="card hidden">
@@ -43,14 +51,11 @@
         <span id="progressText"></span>
         <span id="scoreLive"></span>
       </div>
-      <div class="progressbar">
-        <div id="progressFill"></div>
-      </div>
+      <div class="progressbar"><div id="progressFill"></div></div>
 
       <p id="meta"></p>
       <h2 id="questionText"></h2>
       <div id="answers"></div>
-
       <p id="feedback"></p>
 
       <button id="validateBtn">Valider</button>
@@ -60,7 +65,9 @@
     <section id="results" class="card hidden">
       <h2>Résultat</h2>
       <p id="finalScore" class="final-score"></p>
+      <p class="saved-note">Résultat enregistré sur cet appareil.</p>
       <div id="mistakes"></div>
+      <button id="retryMistakesBtn" class="good hidden">Refaire uniquement mes erreurs</button>
       <button id="restartBtn">Recommencer</button>
       <button id="homeBtn" class="secondary">Accueil</button>
     </section>

@@ -1,31 +1,23 @@
-# ETIS QCM
+# ETIS QCM — version 2
 
-Site de révision QCM pour l'EMB 121 Xingu.
+Nouveautés :
+- résultats affichés sur la page d'accueil ;
+- sauvegarde automatique des scores sur l'appareil ;
+- bouton pour refaire uniquement les erreurs du dernier test ;
+- bouton pour refaire les erreurs directement depuis le résultat.
 
-## Mise en ligne avec GitHub Pages
+## Mise à jour GitHub Pages
 
-1. Crée un nouveau dépôt GitHub, par exemple `ETIS-QCM`.
-2. Ajoute tous les fichiers de ce dossier dans le dépôt :
+1. Ouvre ton dépôt `ETIS-QCM`.
+2. Clique sur **Add file** puis **Upload files**.
+3. Envoie ces 5 fichiers :
    - `index.html`
    - `style.css`
    - `script.js`
    - `questions.json`
    - `README.md`
-3. Va dans **Settings** → **Pages**.
-4. Dans **Build and deployment**, choisis :
-   - Source : `Deploy from a branch`
-   - Branch : `main`
-   - Folder : `/root`
-5. Clique sur **Save**.
+4. Accepte le remplacement des anciens fichiers.
+5. Clique sur **Commit changes**.
 
-Après quelques minutes, le site sera disponible à l'adresse :
-
-`https://TON-PSEUDO.github.io/ETIS-QCM/`
-
-## Utilisation
-
-- Choisis le test ou tous les tests.
-- Choisis 20, 40, 80 ou 240 questions.
-- Clique sur **Lancer le test**.
-- Réponds question par question.
-- Consulte le score final et les erreurs.
+Les résultats sont sauvegardés dans le navigateur avec `localStorage`.
+Ils restent donc sur le même téléphone/navigateur, mais ne se synchronisent pas entre appareils.
