@@ -2643,7 +2643,7 @@
       "C) 16 red WARNING lights + 14 amber CAUTION lights",
       "D) 16 red CAUTION lights + 14 amber WARNING lights"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "id": "Test5-30",
